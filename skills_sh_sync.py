@@ -20,7 +20,7 @@ import os
 import re
 import json
 import csv
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import List, Dict
 
 import requests
@@ -36,6 +36,7 @@ CATEGORIES = {
     "trending": "https://skills.sh/trending",
     "hot": "https://skills.sh/hot",
 }
+SITEMAP_URL = "https://skills.sh/sitemap.xml"
 
 
 def ensure_dir(path: str):
@@ -216,7 +217,7 @@ def normalize_rows(rows: List[Dict]) -> List[Dict]:
 
 def save_outputs(category: str, rows: List[Dict]):
     ensure_dir(BASE_DIR)
-    ts = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+    ts = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     # JSON
     json_path = os.path.join(BASE_DIR, f"skills_sh_list_{category}.json")
@@ -253,13 +254,57 @@ def sync_category(category: str, url: str):
     save_outputs(category, rows)
 
 
+def parse_sitemap(xml_text: str) -> List[str]:
+    # sitemap 是空格分隔的 URL 列表（非标准 XML 格式），逐个提取 https://skills.sh/... 链接
+    urls = re.findall(r"https?://skills\.sh/[\w\-./%]+", xml_text)
+    # 去重
+    return sorted(set(urls))
+
+
+def build_full_list_from_sitemap():
+    print(f"Fetching sitemap: {SITEMAP_URL}")
+    xml = fetch(SITEMAP_URL)
+    urls = parse_sitemap(xml)
+    print(f"Sitemap URLs: {len(urls)}")
+
+    rows = []
+    for url in urls:
+        parts = url.split("/")
+        # 期望结构：https://skills.sh/<owner>/<repo>/<skill>
+        owner_repo = None
+        skill_name = None
+        if len(parts) >= 6:
+            owner_repo = f"{parts[3]}/{parts[4]}"
+            skill_name = parts[5]
+        else:
+            # 略过非技能详情链接（如主页、docs）
+            continue
+        rows.append({
+            "rank": None,
+            "skill_name": skill_name,
+            "owner_repo": owner_repo,
+            "installs": None,
+            "page_url": url,
+            "category": "sitemap_all",
+        })
+
+    rows = normalize_rows(rows)
+    save_outputs("sitemap_all", rows)
+
+
 def main():
     ensure_dir(BASE_DIR)
+    # 1) 生成分类榜单（200条/类）
     for cat, url in CATEGORIES.items():
         try:
             sync_category(cat, url)
         except Exception as e:
             print(f"[ERROR] 同步 {cat} 时失败：{e}")
+    # 2) 生成完整技能列表（来自 sitemap）
+    try:
+        build_full_list_from_sitemap()
+    except Exception as e:
+        print(f"[ERROR] 构建完整列表失败：{e}")
 
     print("Done.")
 
