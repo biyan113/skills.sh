@@ -1,23 +1,7 @@
 {
-  "timestamp": "2026-02-22T06:43:11Z",
+  "timestamp": "2026-02-23T07:00:51Z",
   "count": 200,
   "rows": [
-    {
-      "rank": null,
-      "skill_name": "agent-tools",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/agent-tools",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "remotion-render",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/remotion-render",
-      "category": "trending"
-    },
     {
       "rank": null,
       "skill_name": "find-skills",
@@ -36,18 +20,18 @@
     },
     {
       "rank": null,
-      "skill_name": "azure-cost-optimization",
+      "skill_name": "azure-diagnostics",
       "owner_repo": "microsoft/github-copilot-for-azure",
       "installs": null,
-      "page_url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-cost-optimization",
+      "page_url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-diagnostics",
       "category": "trending"
     },
     {
       "rank": null,
-      "skill_name": "azure-ai",
+      "skill_name": "azure-cost-optimization",
       "owner_repo": "microsoft/github-copilot-for-azure",
       "installs": null,
-      "page_url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-ai",
+      "page_url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-cost-optimization",
       "category": "trending"
     },
     {
@@ -60,10 +44,10 @@
     },
     {
       "rank": null,
-      "skill_name": "azure-diagnostics",
+      "skill_name": "azure-ai",
       "owner_repo": "microsoft/github-copilot-for-azure",
       "installs": null,
-      "page_url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-diagnostics",
+      "page_url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-ai",
       "category": "trending"
     },
     {
@@ -76,10 +60,26 @@
     },
     {
       "rank": null,
+      "skill_name": "azure-postgres",
+      "owner_repo": "microsoft/github-copilot-for-azure",
+      "installs": null,
+      "page_url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-postgres",
+      "category": "trending"
+    },
+    {
+      "rank": null,
       "skill_name": "azure-kusto",
       "owner_repo": "microsoft/github-copilot-for-azure",
       "installs": null,
       "page_url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-kusto",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "azure-resource-lookup",
+      "owner_repo": "microsoft/github-copilot-for-azure",
+      "installs": null,
+      "page_url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-resource-lookup",
       "category": "trending"
     },
     {
@@ -92,18 +92,10 @@
     },
     {
       "rank": null,
-      "skill_name": "azure-validate",
+      "skill_name": "azure-rbac",
       "owner_repo": "microsoft/github-copilot-for-azure",
       "installs": null,
-      "page_url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-validate",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "azure-compliance",
-      "owner_repo": "microsoft/github-copilot-for-azure",
-      "installs": null,
-      "page_url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-compliance",
+      "page_url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-rbac",
       "category": "trending"
     },
     {
@@ -124,42 +116,10 @@
     },
     {
       "rank": null,
-      "skill_name": "azure-rbac",
+      "skill_name": "azure-compliance",
       "owner_repo": "microsoft/github-copilot-for-azure",
       "installs": null,
-      "page_url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-rbac",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "azure-postgres",
-      "owner_repo": "microsoft/github-copilot-for-azure",
-      "installs": null,
-      "page_url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-postgres",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "azure-resource-lookup",
-      "owner_repo": "microsoft/github-copilot-for-azure",
-      "installs": null,
-      "page_url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-resource-lookup",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "azure-aigateway",
-      "owner_repo": "microsoft/github-copilot-for-azure",
-      "installs": null,
-      "page_url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-aigateway",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "entra-app-registration",
-      "owner_repo": "microsoft/github-copilot-for-azure",
-      "installs": null,
-      "page_url": "https://skills.sh/microsoft/github-copilot-for-azure/entra-app-registration",
+      "page_url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-compliance",
       "category": "trending"
     },
     {
@@ -172,10 +132,34 @@
     },
     {
       "rank": null,
+      "skill_name": "entra-app-registration",
+      "owner_repo": "microsoft/github-copilot-for-azure",
+      "installs": null,
+      "page_url": "https://skills.sh/microsoft/github-copilot-for-azure/entra-app-registration",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "azure-aigateway",
+      "owner_repo": "microsoft/github-copilot-for-azure",
+      "installs": null,
+      "page_url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-aigateway",
+      "category": "trending"
+    },
+    {
+      "rank": null,
       "skill_name": "azure-messaging",
       "owner_repo": "microsoft/github-copilot-for-azure",
       "installs": null,
       "page_url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-messaging",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "azure-validate",
+      "owner_repo": "microsoft/github-copilot-for-azure",
+      "installs": null,
+      "page_url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-validate",
       "category": "trending"
     },
     {
@@ -220,26 +204,10 @@
     },
     {
       "rank": null,
-      "skill_name": "ai-image-generation",
-      "owner_repo": "inference-sh-6/skills",
+      "skill_name": "seedance2-api",
+      "owner_repo": "hexiaochun/seedance2-api",
       "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/ai-image-generation",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "ai-video-generation",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/ai-video-generation",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "twitter-automation",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/twitter-automation",
+      "page_url": "https://skills.sh/hexiaochun/seedance2-api/seedance2-api",
       "category": "trending"
     },
     {
@@ -253,25 +221,9 @@
     {
       "rank": null,
       "skill_name": "agent-browser",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/agent-browser",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "agent-browser",
       "owner_repo": "vercel-labs/agent-browser",
       "installs": null,
       "page_url": "https://skills.sh/vercel-labs/agent-browser/agent-browser",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "ui-ux-pro-max",
-      "owner_repo": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "installs": null,
-      "page_url": "https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max",
       "category": "trending"
     },
     {
@@ -284,10 +236,18 @@
     },
     {
       "rank": null,
-      "skill_name": "seedance2-api",
-      "owner_repo": "hexiaochun/seedance2-api",
+      "skill_name": "browser-use",
+      "owner_repo": "browser-use/browser-use",
       "installs": null,
-      "page_url": "https://skills.sh/hexiaochun/seedance2-api/seedance2-api",
+      "page_url": "https://skills.sh/browser-use/browser-use/browser-use",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "ui-ux-pro-max",
+      "owner_repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "installs": null,
+      "page_url": "https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max",
       "category": "trending"
     },
     {
@@ -316,26 +276,26 @@
     },
     {
       "rank": null,
+      "skill_name": "agent-tools",
+      "owner_repo": "inference-sh-7/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/inference-sh-7/skills/agent-tools",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "remotion-render",
+      "owner_repo": "inference-sh-7/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/inference-sh-7/skills/remotion-render",
+      "category": "trending"
+    },
+    {
+      "rank": null,
       "skill_name": "next-best-practices",
       "owner_repo": "vercel-labs/next-skills",
       "installs": null,
       "page_url": "https://skills.sh/vercel-labs/next-skills/next-best-practices",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "supabase-postgres-best-practices",
-      "owner_repo": "supabase/agent-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/supabase/agent-skills/supabase-postgres-best-practices",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "pdf",
-      "owner_repo": "anthropics/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/anthropics/skills/pdf",
       "category": "trending"
     },
     {
@@ -348,18 +308,26 @@
     },
     {
       "rank": null,
-      "skill_name": "systematic-debugging",
-      "owner_repo": "obra/superpowers",
+      "skill_name": "text-optimizer",
+      "owner_repo": "kochetkov-ma/claude-brewcode",
       "installs": null,
-      "page_url": "https://skills.sh/obra/superpowers/systematic-debugging",
+      "page_url": "https://skills.sh/kochetkov-ma/claude-brewcode/text-optimizer",
       "category": "trending"
     },
     {
       "rank": null,
-      "skill_name": "agent-ui",
-      "owner_repo": "inference-sh-6/skills",
+      "skill_name": "pdf",
+      "owner_repo": "anthropics/skills",
       "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/agent-ui",
+      "page_url": "https://skills.sh/anthropics/skills/pdf",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "supabase-postgres-best-practices",
+      "owner_repo": "supabase/agent-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/supabase/agent-skills/supabase-postgres-best-practices",
       "category": "trending"
     },
     {
@@ -372,134 +340,6 @@
     },
     {
       "rank": null,
-      "skill_name": "writing-plans",
-      "owner_repo": "obra/superpowers",
-      "installs": null,
-      "page_url": "https://skills.sh/obra/superpowers/writing-plans",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "web-search",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/web-search",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "python-sdk",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/python-sdk",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "docx",
-      "owner_repo": "anthropics/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/anthropics/skills/docx",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "javascript-sdk",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/javascript-sdk",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "chat-ui",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/chat-ui",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "tailwind-design-system",
-      "owner_repo": "wshobson/agents",
-      "installs": null,
-      "page_url": "https://skills.sh/wshobson/agents/tailwind-design-system",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "test-driven-development",
-      "owner_repo": "obra/superpowers",
-      "installs": null,
-      "page_url": "https://skills.sh/obra/superpowers/test-driven-development",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "tools-ui",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/tools-ui",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "design-md",
-      "owner_repo": "google-labs-code/stitch-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/google-labs-code/stitch-skills/design-md",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "stitch-loop",
-      "owner_repo": "google-labs-code/stitch-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/google-labs-code/stitch-skills/stitch-loop",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "webapp-testing",
-      "owner_repo": "anthropics/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/anthropics/skills/webapp-testing",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "react:components",
-      "owner_repo": "google-labs-code/stitch-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/google-labs-code/stitch-skills/react:components",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "xlsx",
-      "owner_repo": "anthropics/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/anthropics/skills/xlsx",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "python-executor",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/python-executor",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "widgets-ui",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/widgets-ui",
-      "category": "trending"
-    },
-    {
-      "rank": null,
       "skill_name": "marketing-psychology",
       "owner_repo": "coreyhaines31/marketingskills",
       "installs": null,
@@ -508,50 +348,10 @@
     },
     {
       "rank": null,
-      "skill_name": "shadcn-ui",
-      "owner_repo": "google-labs-code/stitch-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/google-labs-code/stitch-skills/shadcn-ui",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "better-auth-best-practices",
-      "owner_repo": "better-auth/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/better-auth/skills/better-auth-best-practices",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "requesting-code-review",
+      "skill_name": "systematic-debugging",
       "owner_repo": "obra/superpowers",
       "installs": null,
-      "page_url": "https://skills.sh/obra/superpowers/requesting-code-review",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "executing-plans",
-      "owner_repo": "obra/superpowers",
-      "installs": null,
-      "page_url": "https://skills.sh/obra/superpowers/executing-plans",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "enhance-prompt",
-      "owner_repo": "google-labs-code/stitch-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/google-labs-code/stitch-skills/enhance-prompt",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "linkedin-content",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/linkedin-content",
+      "page_url": "https://skills.sh/obra/superpowers/systematic-debugging",
       "category": "trending"
     },
     {
@@ -564,62 +364,6 @@
     },
     {
       "rank": null,
-      "skill_name": "data-visualization",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/data-visualization",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "app-store-screenshots",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/app-store-screenshots",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "using-superpowers",
-      "owner_repo": "obra/superpowers",
-      "installs": null,
-      "page_url": "https://skills.sh/obra/superpowers/using-superpowers",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "competitor-teardown",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/competitor-teardown",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "storyboard-creation",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/storyboard-creation",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "mcp-builder",
-      "owner_repo": "anthropics/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/anthropics/skills/mcp-builder",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "og-image-design",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/og-image-design",
-      "category": "trending"
-    },
-    {
-      "rank": null,
       "skill_name": "content-strategy",
       "owner_repo": "coreyhaines31/marketingskills",
       "installs": null,
@@ -628,274 +372,18 @@
     },
     {
       "rank": null,
-      "skill_name": "google-veo",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/google-veo",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "landing-page-design",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/landing-page-design",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "gen-paylink-govilo",
-      "owner_repo": "hau823823/gen-paylink-govilo",
-      "installs": null,
-      "page_url": "https://skills.sh/hau823823/gen-paylink-govilo/gen-paylink-govilo",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "dialogue-audio",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/dialogue-audio",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "talking-head-production",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/talking-head-production",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "product-hunt-launch",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/product-hunt-launch",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "video-ad-specs",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/video-ad-specs",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "subagent-driven-development",
+      "skill_name": "writing-plans",
       "owner_repo": "obra/superpowers",
       "installs": null,
-      "page_url": "https://skills.sh/obra/superpowers/subagent-driven-development",
+      "page_url": "https://skills.sh/obra/superpowers/writing-plans",
       "category": "trending"
     },
     {
       "rank": null,
-      "skill_name": "case-study-writing",
-      "owner_repo": "inference-sh-6/skills",
+      "skill_name": "docx",
+      "owner_repo": "anthropics/skills",
       "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/case-study-writing",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "video-prompting-guide",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/video-prompting-guide",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "ai-social-media-content",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/ai-social-media-content",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "twitter-thread-creation",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/twitter-thread-creation",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "receiving-code-review",
-      "owner_repo": "obra/superpowers",
-      "installs": null,
-      "page_url": "https://skills.sh/obra/superpowers/receiving-code-review",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "logo-design-guide",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/logo-design-guide",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "book-cover-design",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/book-cover-design",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "ai-product-photography",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/ai-product-photography",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "ai-content-pipeline",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/ai-content-pipeline",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "browser-use",
-      "owner_repo": "browser-use/browser-use",
-      "installs": null,
-      "page_url": "https://skills.sh/browser-use/browser-use/browser-use",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "customer-persona",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/customer-persona",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "text-to-speech",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/text-to-speech",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "building-native-ui",
-      "owner_repo": "expo/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/expo/skills/building-native-ui",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "technical-blog-writing",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/technical-blog-writing",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "product-changelog",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/product-changelog",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "ai-automation-workflows",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/ai-automation-workflows",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "llm-models",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/llm-models",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "ai-music-generation",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/ai-music-generation",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "newsletter-curation",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/newsletter-curation",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "email-design",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/email-design",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "seo-content-brief",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/seo-content-brief",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "social-content",
-      "owner_repo": "coreyhaines31/marketingskills",
-      "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/marketingskills/social-content",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "pitch-deck-visuals",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/pitch-deck-visuals",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "remotion",
-      "owner_repo": "google-labs-code/stitch-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/google-labs-code/stitch-skills/remotion",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "ai-avatar-video",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/ai-avatar-video",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "typescript-advanced-types",
-      "owner_repo": "wshobson/agents",
-      "installs": null,
-      "page_url": "https://skills.sh/wshobson/agents/typescript-advanced-types",
+      "page_url": "https://skills.sh/anthropics/skills/docx",
       "category": "trending"
     },
     {
@@ -908,146 +396,10 @@
     },
     {
       "rank": null,
-      "skill_name": "product-marketing-context",
+      "skill_name": "social-content",
       "owner_repo": "coreyhaines31/marketingskills",
       "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/marketingskills/product-marketing-context",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "character-design-sheet",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/character-design-sheet",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "product-photography",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/product-photography",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "flux-image",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/flux-image",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "speech-to-text",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/speech-to-text",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "image-to-video",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/image-to-video",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "related-skill",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/related-skill",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "prompt-engineering",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/prompt-engineering",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "content-repurposing",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/content-repurposing",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "image-upscaling",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/image-upscaling",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "explainer-video-guide",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/explainer-video-guide",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "ai-marketing-videos",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/ai-marketing-videos",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "ai-podcast-creation",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/ai-podcast-creation",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "ai-voice-cloning",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/ai-voice-cloning",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "verification-before-completion",
-      "owner_repo": "obra/superpowers",
-      "installs": null,
-      "page_url": "https://skills.sh/obra/superpowers/verification-before-completion",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "background-removal",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/background-removal",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "ai-rag-pipeline",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/ai-rag-pipeline",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "press-release-writing",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/press-release-writing",
+      "page_url": "https://skills.sh/coreyhaines31/marketingskills/social-content",
       "category": "trending"
     },
     {
@@ -1060,26 +412,18 @@
     },
     {
       "rank": null,
-      "skill_name": "canvas-design",
-      "owner_repo": "anthropics/skills",
+      "skill_name": "product-marketing-context",
+      "owner_repo": "coreyhaines31/marketingskills",
       "installs": null,
-      "page_url": "https://skills.sh/anthropics/skills/canvas-design",
+      "page_url": "https://skills.sh/coreyhaines31/marketingskills/product-marketing-context",
       "category": "trending"
     },
     {
       "rank": null,
-      "skill_name": "youtube-thumbnail-design",
-      "owner_repo": "inference-sh-6/skills",
+      "skill_name": "ai-seo",
+      "owner_repo": "coreyhaines31/marketingskills",
       "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/youtube-thumbnail-design",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "social-media-carousel",
-      "owner_repo": "inference-sh-6/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/inference-sh-6/skills/social-media-carousel",
+      "page_url": "https://skills.sh/coreyhaines31/marketingskills/ai-seo",
       "category": "trending"
     },
     {
@@ -1092,10 +436,298 @@
     },
     {
       "rank": null,
-      "skill_name": "dispatching-parallel-agents",
+      "skill_name": "webapp-testing",
+      "owner_repo": "anthropics/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/anthropics/skills/webapp-testing",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "xlsx",
+      "owner_repo": "anthropics/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/anthropics/skills/xlsx",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "executing-plans",
       "owner_repo": "obra/superpowers",
       "installs": null,
-      "page_url": "https://skills.sh/obra/superpowers/dispatching-parallel-agents",
+      "page_url": "https://skills.sh/obra/superpowers/executing-plans",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "page-cro",
+      "owner_repo": "coreyhaines31/marketingskills",
+      "installs": null,
+      "page_url": "https://skills.sh/coreyhaines31/marketingskills/page-cro",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "test-driven-development",
+      "owner_repo": "obra/superpowers",
+      "installs": null,
+      "page_url": "https://skills.sh/obra/superpowers/test-driven-development",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "launch-strategy",
+      "owner_repo": "coreyhaines31/marketingskills",
+      "installs": null,
+      "page_url": "https://skills.sh/coreyhaines31/marketingskills/launch-strategy",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "analytics-tracking",
+      "owner_repo": "coreyhaines31/marketingskills",
+      "installs": null,
+      "page_url": "https://skills.sh/coreyhaines31/marketingskills/analytics-tracking",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "schema-markup",
+      "owner_repo": "coreyhaines31/marketingskills",
+      "installs": null,
+      "page_url": "https://skills.sh/coreyhaines31/marketingskills/schema-markup",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "email-sequence",
+      "owner_repo": "coreyhaines31/marketingskills",
+      "installs": null,
+      "page_url": "https://skills.sh/coreyhaines31/marketingskills/email-sequence",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "stitch-loop",
+      "owner_repo": "google-labs-code/stitch-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/google-labs-code/stitch-skills/stitch-loop",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "competitor-alternatives",
+      "owner_repo": "coreyhaines31/marketingskills",
+      "installs": null,
+      "page_url": "https://skills.sh/coreyhaines31/marketingskills/competitor-alternatives",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "paid-ads",
+      "owner_repo": "coreyhaines31/marketingskills",
+      "installs": null,
+      "page_url": "https://skills.sh/coreyhaines31/marketingskills/paid-ads",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "ad-creative",
+      "owner_repo": "coreyhaines31/marketingskills",
+      "installs": null,
+      "page_url": "https://skills.sh/coreyhaines31/marketingskills/ad-creative",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "cold-email",
+      "owner_repo": "coreyhaines31/marketingskills",
+      "installs": null,
+      "page_url": "https://skills.sh/coreyhaines31/marketingskills/cold-email",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "requesting-code-review",
+      "owner_repo": "obra/superpowers",
+      "installs": null,
+      "page_url": "https://skills.sh/obra/superpowers/requesting-code-review",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "onboarding-cro",
+      "owner_repo": "coreyhaines31/marketingskills",
+      "installs": null,
+      "page_url": "https://skills.sh/coreyhaines31/marketingskills/onboarding-cro",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "tailwind-design-system",
+      "owner_repo": "wshobson/agents",
+      "installs": null,
+      "page_url": "https://skills.sh/wshobson/agents/tailwind-design-system",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "design-md",
+      "owner_repo": "google-labs-code/stitch-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/google-labs-code/stitch-skills/design-md",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "free-tool-strategy",
+      "owner_repo": "coreyhaines31/marketingskills",
+      "installs": null,
+      "page_url": "https://skills.sh/coreyhaines31/marketingskills/free-tool-strategy",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "paywall-upgrade-cro",
+      "owner_repo": "coreyhaines31/marketingskills",
+      "installs": null,
+      "page_url": "https://skills.sh/coreyhaines31/marketingskills/paywall-upgrade-cro",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "signup-flow-cro",
+      "owner_repo": "coreyhaines31/marketingskills",
+      "installs": null,
+      "page_url": "https://skills.sh/coreyhaines31/marketingskills/signup-flow-cro",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "churn-prevention",
+      "owner_repo": "coreyhaines31/marketingskills",
+      "installs": null,
+      "page_url": "https://skills.sh/coreyhaines31/marketingskills/churn-prevention",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "referral-program",
+      "owner_repo": "coreyhaines31/marketingskills",
+      "installs": null,
+      "page_url": "https://skills.sh/coreyhaines31/marketingskills/referral-program",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "popup-cro",
+      "owner_repo": "coreyhaines31/marketingskills",
+      "installs": null,
+      "page_url": "https://skills.sh/coreyhaines31/marketingskills/popup-cro",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "form-cro",
+      "owner_repo": "coreyhaines31/marketingskills",
+      "installs": null,
+      "page_url": "https://skills.sh/coreyhaines31/marketingskills/form-cro",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "ab-test-setup",
+      "owner_repo": "coreyhaines31/marketingskills",
+      "installs": null,
+      "page_url": "https://skills.sh/coreyhaines31/marketingskills/ab-test-setup",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "better-auth-best-practices",
+      "owner_repo": "better-auth/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/better-auth/skills/better-auth-best-practices",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "mcp-builder",
+      "owner_repo": "anthropics/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/anthropics/skills/mcp-builder",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "discovery-interview",
+      "owner_repo": "parcadei/continuous-claude-v3",
+      "installs": null,
+      "page_url": "https://skills.sh/parcadei/continuous-claude-v3/discovery-interview",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "react:components",
+      "owner_repo": "google-labs-code/stitch-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/google-labs-code/stitch-skills/react:components",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "subagent-driven-development",
+      "owner_repo": "obra/superpowers",
+      "installs": null,
+      "page_url": "https://skills.sh/obra/superpowers/subagent-driven-development",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "using-superpowers",
+      "owner_repo": "obra/superpowers",
+      "installs": null,
+      "page_url": "https://skills.sh/obra/superpowers/using-superpowers",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "canvas-design",
+      "owner_repo": "anthropics/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/anthropics/skills/canvas-design",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "enhance-prompt",
+      "owner_repo": "google-labs-code/stitch-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/google-labs-code/stitch-skills/enhance-prompt",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "shadcn-ui",
+      "owner_repo": "google-labs-code/stitch-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/google-labs-code/stitch-skills/shadcn-ui",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "receiving-code-review",
+      "owner_repo": "obra/superpowers",
+      "installs": null,
+      "page_url": "https://skills.sh/obra/superpowers/receiving-code-review",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "verification-before-completion",
+      "owner_repo": "obra/superpowers",
+      "installs": null,
+      "page_url": "https://skills.sh/obra/superpowers/verification-before-completion",
       "category": "trending"
     },
     {
@@ -1116,58 +748,18 @@
     },
     {
       "rank": null,
-      "skill_name": "analytics-tracking",
-      "owner_repo": "coreyhaines31/marketingskills",
+      "skill_name": "dispatching-parallel-agents",
+      "owner_repo": "obra/superpowers",
       "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/marketingskills/analytics-tracking",
+      "page_url": "https://skills.sh/obra/superpowers/dispatching-parallel-agents",
       "category": "trending"
     },
     {
       "rank": null,
-      "skill_name": "page-cro",
-      "owner_repo": "coreyhaines31/marketingskills",
+      "skill_name": "typescript-advanced-types",
+      "owner_repo": "wshobson/agents",
       "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/marketingskills/page-cro",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "launch-strategy",
-      "owner_repo": "coreyhaines31/marketingskills",
-      "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/marketingskills/launch-strategy",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "onboarding-cro",
-      "owner_repo": "coreyhaines31/marketingskills",
-      "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/marketingskills/onboarding-cro",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "shadcn-ui",
-      "owner_repo": "giuseppe-trisciuoglio/developer-kit",
-      "installs": null,
-      "page_url": "https://skills.sh/giuseppe-trisciuoglio/developer-kit/shadcn-ui",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "paid-ads",
-      "owner_repo": "coreyhaines31/marketingskills",
-      "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/marketingskills/paid-ads",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "schema-markup",
-      "owner_repo": "coreyhaines31/marketingskills",
-      "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/marketingskills/schema-markup",
+      "page_url": "https://skills.sh/wshobson/agents/typescript-advanced-types",
       "category": "trending"
     },
     {
@@ -1180,122 +772,10 @@
     },
     {
       "rank": null,
-      "skill_name": "email-sequence",
-      "owner_repo": "coreyhaines31/marketingskills",
+      "skill_name": "building-native-ui",
+      "owner_repo": "expo/skills",
       "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/marketingskills/email-sequence",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "firecrawl",
-      "owner_repo": "firecrawl/cli",
-      "installs": null,
-      "page_url": "https://skills.sh/firecrawl/cli/firecrawl",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "ai-seo",
-      "owner_repo": "coreyhaines31/marketingskills",
-      "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/marketingskills/ai-seo",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "competitor-alternatives",
-      "owner_repo": "coreyhaines31/marketingskills",
-      "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/marketingskills/competitor-alternatives",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "paywall-upgrade-cro",
-      "owner_repo": "coreyhaines31/marketingskills",
-      "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/marketingskills/paywall-upgrade-cro",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "theme-factory",
-      "owner_repo": "anthropics/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/anthropics/skills/theme-factory",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "discovery-interview",
-      "owner_repo": "parcadei/continuous-claude-v3",
-      "installs": null,
-      "page_url": "https://skills.sh/parcadei/continuous-claude-v3/discovery-interview",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "ai-sdk",
-      "owner_repo": "vercel/ai",
-      "installs": null,
-      "page_url": "https://skills.sh/vercel/ai/ai-sdk",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "next-cache-components",
-      "owner_repo": "vercel-labs/next-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/vercel-labs/next-skills/next-cache-components",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "signup-flow-cro",
-      "owner_repo": "coreyhaines31/marketingskills",
-      "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/marketingskills/signup-flow-cro",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "form-cro",
-      "owner_repo": "coreyhaines31/marketingskills",
-      "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/marketingskills/form-cro",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "referral-program",
-      "owner_repo": "coreyhaines31/marketingskills",
-      "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/marketingskills/referral-program",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "algorithmic-art",
-      "owner_repo": "anthropics/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/anthropics/skills/algorithmic-art",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "free-tool-strategy",
-      "owner_repo": "coreyhaines31/marketingskills",
-      "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/marketingskills/free-tool-strategy",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "popup-cro",
-      "owner_repo": "coreyhaines31/marketingskills",
-      "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/marketingskills/popup-cro",
+      "page_url": "https://skills.sh/expo/skills/building-native-ui",
       "category": "trending"
     },
     {
@@ -1308,26 +788,18 @@
     },
     {
       "rank": null,
-      "skill_name": "cold-email",
-      "owner_repo": "coreyhaines31/marketingskills",
+      "skill_name": "fullstack-developer",
+      "owner_repo": "shubhamsaboo/awesome-llm-apps",
       "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/marketingskills/cold-email",
+      "page_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/fullstack-developer",
       "category": "trending"
     },
     {
       "rank": null,
-      "skill_name": "ab-test-setup",
-      "owner_repo": "coreyhaines31/marketingskills",
-      "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/marketingskills/ab-test-setup",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "brand-guidelines",
+      "skill_name": "theme-factory",
       "owner_repo": "anthropics/skills",
       "installs": null,
-      "page_url": "https://skills.sh/anthropics/skills/brand-guidelines",
+      "page_url": "https://skills.sh/anthropics/skills/theme-factory",
       "category": "trending"
     },
     {
@@ -1340,58 +812,50 @@
     },
     {
       "rank": null,
-      "skill_name": "turborepo",
-      "owner_repo": "vercel/turborepo",
+      "skill_name": "remotion",
+      "owner_repo": "google-labs-code/stitch-skills",
       "installs": null,
-      "page_url": "https://skills.sh/vercel/turborepo/turborepo",
+      "page_url": "https://skills.sh/google-labs-code/stitch-skills/remotion",
       "category": "trending"
     },
     {
       "rank": null,
-      "skill_name": "churn-prevention",
-      "owner_repo": "coreyhaines31/marketingskills",
+      "skill_name": "brand-guidelines",
+      "owner_repo": "anthropics/skills",
       "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/marketingskills/churn-prevention",
+      "page_url": "https://skills.sh/anthropics/skills/brand-guidelines",
       "category": "trending"
     },
     {
       "rank": null,
-      "skill_name": "api-design-principles",
-      "owner_repo": "wshobson/agents",
+      "skill_name": "algorithmic-art",
+      "owner_repo": "anthropics/skills",
       "installs": null,
-      "page_url": "https://skills.sh/wshobson/agents/api-design-principles",
+      "page_url": "https://skills.sh/anthropics/skills/algorithmic-art",
       "category": "trending"
     },
     {
       "rank": null,
-      "skill_name": "native-data-fetching",
-      "owner_repo": "expo/skills",
+      "skill_name": "firecrawl",
+      "owner_repo": "firecrawl/cli",
       "installs": null,
-      "page_url": "https://skills.sh/expo/skills/native-data-fetching",
+      "page_url": "https://skills.sh/firecrawl/cli/firecrawl",
       "category": "trending"
     },
     {
       "rank": null,
-      "skill_name": "ad-creative",
-      "owner_repo": "coreyhaines31/marketingskills",
+      "skill_name": "abund-ai",
+      "owner_repo": "abund-ai/abund.ai",
       "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/marketingskills/ad-creative",
+      "page_url": "https://skills.sh/abund-ai/abund.ai/abund-ai",
       "category": "trending"
     },
     {
       "rank": null,
-      "skill_name": "skill-creator",
-      "owner_repo": "vercel-labs/agent-browser",
+      "skill_name": "next-cache-components",
+      "owner_repo": "vercel-labs/next-skills",
       "installs": null,
-      "page_url": "https://skills.sh/vercel-labs/agent-browser/skill-creator",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "python-performance-optimization",
-      "owner_repo": "wshobson/agents",
-      "installs": null,
-      "page_url": "https://skills.sh/wshobson/agents/python-performance-optimization",
+      "page_url": "https://skills.sh/vercel-labs/next-skills/next-cache-components",
       "category": "trending"
     },
     {
@@ -1404,10 +868,58 @@
     },
     {
       "rank": null,
-      "skill_name": "nodejs-backend-patterns",
+      "skill_name": "api-design-principles",
       "owner_repo": "wshobson/agents",
       "installs": null,
-      "page_url": "https://skills.sh/wshobson/agents/nodejs-backend-patterns",
+      "page_url": "https://skills.sh/wshobson/agents/api-design-principles",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "internal-comms",
+      "owner_repo": "anthropics/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/anthropics/skills/internal-comms",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "skill-creator",
+      "owner_repo": "vercel-labs/agent-browser",
+      "installs": null,
+      "page_url": "https://skills.sh/vercel-labs/agent-browser/skill-creator",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "slack-gif-creator",
+      "owner_repo": "anthropics/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/anthropics/skills/slack-gif-creator",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "ai-sdk",
+      "owner_repo": "vercel/ai",
+      "installs": null,
+      "page_url": "https://skills.sh/vercel/ai/ai-sdk",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "turborepo",
+      "owner_repo": "vercel/turborepo",
+      "installs": null,
+      "page_url": "https://skills.sh/vercel/turborepo/turborepo",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "shadcn-ui",
+      "owner_repo": "giuseppe-trisciuoglio/developer-kit",
+      "installs": null,
+      "page_url": "https://skills.sh/giuseppe-trisciuoglio/developer-kit/shadcn-ui",
       "category": "trending"
     },
     {
@@ -1416,6 +928,14 @@
       "owner_repo": "wshobson/agents",
       "installs": null,
       "page_url": "https://skills.sh/wshobson/agents/nextjs-app-router-patterns",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "python-performance-optimization",
+      "owner_repo": "wshobson/agents",
+      "installs": null,
+      "page_url": "https://skills.sh/wshobson/agents/python-performance-optimization",
       "category": "trending"
     },
     {
@@ -1436,34 +956,10 @@
     },
     {
       "rank": null,
-      "skill_name": "expo-tailwind-setup",
-      "owner_repo": "expo/skills",
+      "skill_name": "vitest",
+      "owner_repo": "antfu/skills",
       "installs": null,
-      "page_url": "https://skills.sh/expo/skills/expo-tailwind-setup",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "upgrading-expo",
-      "owner_repo": "expo/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/expo/skills/upgrading-expo",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "internal-comms",
-      "owner_repo": "anthropics/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/anthropics/skills/internal-comms",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "expo-deployment",
-      "owner_repo": "expo/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/expo/skills/expo-deployment",
+      "page_url": "https://skills.sh/antfu/skills/vitest",
       "category": "trending"
     },
     {
@@ -1476,50 +972,42 @@
     },
     {
       "rank": null,
-      "skill_name": "mcp-apps-builder",
-      "owner_repo": "mcp-use/mcp-use",
+      "skill_name": "seo-geo",
+      "owner_repo": "resciencelab/opc-skills",
       "installs": null,
-      "page_url": "https://skills.sh/mcp-use/mcp-use/mcp-apps-builder",
+      "page_url": "https://skills.sh/resciencelab/opc-skills/seo-geo",
       "category": "trending"
     },
     {
       "rank": null,
-      "skill_name": "expo-dev-client",
+      "skill_name": "native-data-fetching",
       "owner_repo": "expo/skills",
       "installs": null,
-      "page_url": "https://skills.sh/expo/skills/expo-dev-client",
+      "page_url": "https://skills.sh/expo/skills/native-data-fetching",
       "category": "trending"
     },
     {
       "rank": null,
-      "skill_name": "interface-design",
-      "owner_repo": "dammyjay93/interface-design",
-      "installs": null,
-      "page_url": "https://skills.sh/dammyjay93/interface-design/interface-design",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "mcp-builder",
-      "owner_repo": "mcp-use/mcp-use",
-      "installs": null,
-      "page_url": "https://skills.sh/mcp-use/mcp-use/mcp-builder",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "postgresql-table-design",
+      "skill_name": "nodejs-backend-patterns",
       "owner_repo": "wshobson/agents",
       "installs": null,
-      "page_url": "https://skills.sh/wshobson/agents/postgresql-table-design",
+      "page_url": "https://skills.sh/wshobson/agents/nodejs-backend-patterns",
       "category": "trending"
     },
     {
       "rank": null,
-      "skill_name": "chatgpt-app-builder",
-      "owner_repo": "mcp-use/mcp-use",
+      "skill_name": "ai-image-generation",
+      "owner_repo": "inference-sh-7/skills",
       "installs": null,
-      "page_url": "https://skills.sh/mcp-use/mcp-use/chatgpt-app-builder",
+      "page_url": "https://skills.sh/inference-sh-7/skills/ai-image-generation",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "react",
+      "owner_repo": "lobehub/lobehub",
+      "installs": null,
+      "page_url": "https://skills.sh/lobehub/lobehub/react",
       "category": "trending"
     },
     {
@@ -1532,50 +1020,82 @@
     },
     {
       "rank": null,
-      "skill_name": "slack-gif-creator",
-      "owner_repo": "anthropics/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/anthropics/skills/slack-gif-creator",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "create-auth-skill",
-      "owner_repo": "better-auth/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/better-auth/skills/create-auth-skill",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "fullstack-developer",
-      "owner_repo": "shubhamsaboo/awesome-llm-apps",
-      "installs": null,
-      "page_url": "https://skills.sh/shubhamsaboo/awesome-llm-apps/fullstack-developer",
-      "category": "trending"
-    },
-    {
-      "rank": null,
-      "skill_name": "responsive-design",
+      "skill_name": "postgresql-table-design",
       "owner_repo": "wshobson/agents",
       "installs": null,
-      "page_url": "https://skills.sh/wshobson/agents/responsive-design",
+      "page_url": "https://skills.sh/wshobson/agents/postgresql-table-design",
       "category": "trending"
     },
     {
       "rank": null,
-      "skill_name": "database-schema-designer",
-      "owner_repo": "softaworks/agent-toolkit",
+      "skill_name": "prompt-engineering-patterns",
+      "owner_repo": "wshobson/agents",
       "installs": null,
-      "page_url": "https://skills.sh/softaworks/agent-toolkit/database-schema-designer",
+      "page_url": "https://skills.sh/wshobson/agents/prompt-engineering-patterns",
       "category": "trending"
     },
     {
       "rank": null,
-      "skill_name": "openapi-to-typescript",
+      "skill_name": "expo-deployment",
+      "owner_repo": "expo/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/expo/skills/expo-deployment",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "upgrading-expo",
+      "owner_repo": "expo/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/expo/skills/upgrading-expo",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "expo-tailwind-setup",
+      "owner_repo": "expo/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/expo/skills/expo-tailwind-setup",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "expo-dev-client",
+      "owner_repo": "expo/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/expo/skills/expo-dev-client",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "twitter-automation",
+      "owner_repo": "inference-sh-7/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/inference-sh-7/skills/twitter-automation",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "fastapi-templates",
+      "owner_repo": "wshobson/agents",
+      "installs": null,
+      "page_url": "https://skills.sh/wshobson/agents/fastapi-templates",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "ship-learn-next",
       "owner_repo": "softaworks/agent-toolkit",
       "installs": null,
-      "page_url": "https://skills.sh/softaworks/agent-toolkit/openapi-to-typescript",
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/ship-learn-next",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "qa-test-planner",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/qa-test-planner",
       "category": "trending"
     },
     {
@@ -1588,6 +1108,102 @@
     },
     {
       "rank": null,
+      "skill_name": "openapi-to-typescript",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/openapi-to-typescript",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "professional-communication",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/professional-communication",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "humanizer",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/humanizer",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "agent-md-refactor",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/agent-md-refactor",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "dependency-updater",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/dependency-updater",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "game-changing-features",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/game-changing-features",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "feedback-mastery",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/feedback-mastery",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "marp-slide",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/marp-slide",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "daily-meeting-update",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/daily-meeting-update",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "ai-video-generation",
+      "owner_repo": "inference-sh-7/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/inference-sh-7/skills/ai-video-generation",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "gemini",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/gemini",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "reducing-entropy",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/reducing-entropy",
+      "category": "trending"
+    },
+    {
+      "rank": null,
       "skill_name": "react-dev",
       "owner_repo": "softaworks/agent-toolkit",
       "installs": null,
@@ -1596,10 +1212,394 @@
     },
     {
       "rank": null,
+      "skill_name": "meme-factory",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/meme-factory",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "c4-architecture",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/c4-architecture",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "domain-name-brainstormer",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/domain-name-brainstormer",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "writing-clearly-and-concisely",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/writing-clearly-and-concisely",
+      "category": "trending"
+    },
+    {
+      "rank": null,
       "skill_name": "codex",
       "owner_repo": "softaworks/agent-toolkit",
       "installs": null,
       "page_url": "https://skills.sh/softaworks/agent-toolkit/codex",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "difficult-workplace-conversations",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/difficult-workplace-conversations",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "session-handoff",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/session-handoff",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "react-useeffect",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/react-useeffect",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "skill-judge",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/skill-judge",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "crafting-effective-readmes",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/crafting-effective-readmes",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "plugin-forge",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/plugin-forge",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "mermaid-diagrams",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/mermaid-diagrams",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "command-creator",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/command-creator",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "database-schema-designer",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/database-schema-designer",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "naming-analyzer",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/naming-analyzer",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "lesson-learned",
+      "owner_repo": "softaworks/agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/softaworks/agent-toolkit/lesson-learned",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "mobile-ios-design",
+      "owner_repo": "wshobson/agents",
+      "installs": null,
+      "page_url": "https://skills.sh/wshobson/agents/mobile-ios-design",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "baoyu-image-gen",
+      "owner_repo": "jimliu/baoyu-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/jimliu/baoyu-skills/baoyu-image-gen",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "responsive-design",
+      "owner_repo": "wshobson/agents",
+      "installs": null,
+      "page_url": "https://skills.sh/wshobson/agents/responsive-design",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "nestjs-best-practices",
+      "owner_repo": "kadajett/agent-nestjs-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/kadajett/agent-nestjs-skills/nestjs-best-practices",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "docker-expert",
+      "owner_repo": "sickn33/antigravity-awesome-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/sickn33/antigravity-awesome-skills/docker-expert",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "baoyu-xhs-images",
+      "owner_repo": "jimliu/baoyu-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/jimliu/baoyu-skills/baoyu-xhs-images",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "interface-design",
+      "owner_repo": "dammyjay93/interface-design",
+      "installs": null,
+      "page_url": "https://skills.sh/dammyjay93/interface-design/interface-design",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "baoyu-cover-image",
+      "owner_repo": "jimliu/baoyu-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/jimliu/baoyu-skills/baoyu-cover-image",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "expo-cicd-workflows",
+      "owner_repo": "expo/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/expo/skills/expo-cicd-workflows",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "agent-browser",
+      "owner_repo": "inference-sh-7/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/inference-sh-7/skills/agent-browser",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "baoyu-url-to-markdown",
+      "owner_repo": "jimliu/baoyu-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/jimliu/baoyu-skills/baoyu-url-to-markdown",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "baoyu-comic",
+      "owner_repo": "jimliu/baoyu-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/jimliu/baoyu-skills/baoyu-comic",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "mastra",
+      "owner_repo": "mastra-ai/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/mastra-ai/skills/mastra",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "e2e-testing-patterns",
+      "owner_repo": "wshobson/agents",
+      "installs": null,
+      "page_url": "https://skills.sh/wshobson/agents/e2e-testing-patterns",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "baoyu-markdown-to-html",
+      "owner_repo": "jimliu/baoyu-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/jimliu/baoyu-skills/baoyu-markdown-to-html",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "create-auth-skill",
+      "owner_repo": "better-auth/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/better-auth/skills/create-auth-skill",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "simplify",
+      "owner_repo": "brianlovin/claude-config",
+      "installs": null,
+      "page_url": "https://skills.sh/brianlovin/claude-config/simplify",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "baoyu-article-illustrator",
+      "owner_repo": "jimliu/baoyu-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/jimliu/baoyu-skills/baoyu-article-illustrator",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "email-and-password-best-practices",
+      "owner_repo": "better-auth/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/better-auth/skills/email-and-password-best-practices",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "baoyu-post-to-wechat",
+      "owner_repo": "jimliu/baoyu-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/jimliu/baoyu-skills/baoyu-post-to-wechat",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "expo-api-routes",
+      "owner_repo": "expo/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/expo/skills/expo-api-routes",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "mobile-android-design",
+      "owner_repo": "wshobson/agents",
+      "installs": null,
+      "page_url": "https://skills.sh/wshobson/agents/mobile-android-design",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "baoyu-infographic",
+      "owner_repo": "jimliu/baoyu-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/jimliu/baoyu-skills/baoyu-infographic",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "baoyu-slide-deck",
+      "owner_repo": "jimliu/baoyu-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/jimliu/baoyu-skills/baoyu-slide-deck",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "swift-concurrency",
+      "owner_repo": "avdlee/swift-concurrency-agent-skill",
+      "installs": null,
+      "page_url": "https://skills.sh/avdlee/swift-concurrency-agent-skill/swift-concurrency",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "next-upgrade",
+      "owner_repo": "vercel-labs/next-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/vercel-labs/next-skills/next-upgrade",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "baoyu-format-markdown",
+      "owner_repo": "jimliu/baoyu-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/jimliu/baoyu-skills/baoyu-format-markdown",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "playwright-cli",
+      "owner_repo": "microsoft/playwright-cli",
+      "installs": null,
+      "page_url": "https://skills.sh/microsoft/playwright-cli/playwright-cli",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "better-auth-security-best-practices",
+      "owner_repo": "better-auth/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/better-auth/skills/better-auth-security-best-practices",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "research",
+      "owner_repo": "tavily-ai/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/tavily-ai/skills/research",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "react-native-architecture",
+      "owner_repo": "wshobson/agents",
+      "installs": null,
+      "page_url": "https://skills.sh/wshobson/agents/react-native-architecture",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "error-handling-patterns",
+      "owner_repo": "wshobson/agents",
+      "installs": null,
+      "page_url": "https://skills.sh/wshobson/agents/error-handling-patterns",
+      "category": "trending"
+    },
+    {
+      "rank": null,
+      "skill_name": "python-design-patterns",
+      "owner_repo": "wshobson/agents",
+      "installs": null,
+      "page_url": "https://skills.sh/wshobson/agents/python-design-patterns",
       "category": "trending"
     }
   ]
