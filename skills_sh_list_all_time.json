@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-27T08:31:57Z",
-  "count": 187,
+  "timestamp": "2026-06-28T08:47:04Z",
+  "count": 183,
   "rows": [
     {
       "rank": null,
@@ -56,6 +56,14 @@
       "owner_repo": "mattpocock/skills",
       "installs": null,
       "page_url": "https://skills.sh/mattpocock/skills/grill-me",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "azure-messaging",
+      "owner_repo": "microsoft/azure-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/microsoft/azure-skills/azure-messaging",
       "category": "all_time"
     },
     {
@@ -132,14 +140,6 @@
     },
     {
       "rank": null,
-      "skill_name": "to-prd",
-      "owner_repo": "mattpocock/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/mattpocock/skills/to-prd",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
       "skill_name": "agentspace",
       "owner_repo": "agentspace-so/skills",
       "installs": null,
@@ -148,10 +148,10 @@
     },
     {
       "rank": null,
-      "skill_name": "skill-creator",
-      "owner_repo": "anthropics/skills",
+      "skill_name": "to-prd",
+      "owner_repo": "mattpocock/skills",
       "installs": null,
-      "page_url": "https://skills.sh/anthropics/skills/skill-creator",
+      "page_url": "https://skills.sh/mattpocock/skills/to-prd",
       "category": "all_time"
     },
     {
@@ -164,10 +164,10 @@
     },
     {
       "rank": null,
-      "skill_name": "azure-quotas",
-      "owner_repo": "microsoft/azure-skills",
+      "skill_name": "skill-creator",
+      "owner_repo": "anthropics/skills",
       "installs": null,
-      "page_url": "https://skills.sh/microsoft/azure-skills/azure-quotas",
+      "page_url": "https://skills.sh/anthropics/skills/skill-creator",
       "category": "all_time"
     },
     {
@@ -180,50 +180,10 @@
     },
     {
       "rank": null,
-      "skill_name": "lark-doc",
-      "owner_repo": "larksuite/cli",
+      "skill_name": "azure-quotas",
+      "owner_repo": "microsoft/azure-skills",
       "installs": null,
-      "page_url": "https://skills.sh/larksuite/cli/lark-doc",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "to-issues",
-      "owner_repo": "mattpocock/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/mattpocock/skills/to-issues",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "lark-base",
-      "owner_repo": "larksuite/cli",
-      "installs": null,
-      "page_url": "https://skills.sh/larksuite/cli/lark-base",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "lark-im",
-      "owner_repo": "larksuite/cli",
-      "installs": null,
-      "page_url": "https://skills.sh/larksuite/cli/lark-im",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "lark-okr",
-      "owner_repo": "site/open.feishu.cn",
-      "installs": null,
-      "page_url": "https://skills.sh/site/open.feishu.cn/lark-okr",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "lark-drive",
-      "owner_repo": "larksuite/cli",
-      "installs": null,
-      "page_url": "https://skills.sh/larksuite/cli/lark-drive",
+      "page_url": "https://skills.sh/microsoft/azure-skills/azure-quotas",
       "category": "all_time"
     },
     {
@@ -236,10 +196,34 @@
     },
     {
       "rank": null,
-      "skill_name": "lark-shared",
+      "skill_name": "to-issues",
+      "owner_repo": "mattpocock/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/mattpocock/skills/to-issues",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "lark-doc",
       "owner_repo": "larksuite/cli",
       "installs": null,
-      "page_url": "https://skills.sh/larksuite/cli/lark-shared",
+      "page_url": "https://skills.sh/larksuite/cli/lark-doc",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "lark-okr",
+      "owner_repo": "site/open.feishu.cn",
+      "installs": null,
+      "page_url": "https://skills.sh/site/open.feishu.cn/lark-okr",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "lark-base",
+      "owner_repo": "larksuite/cli",
+      "installs": null,
+      "page_url": "https://skills.sh/larksuite/cli/lark-base",
       "category": "all_time"
     },
     {
@@ -248,14 +232,6 @@
       "owner_repo": "microsoft/azure-skills",
       "installs": null,
       "page_url": "https://skills.sh/microsoft/azure-skills/azure-upgrade",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "lark-contact",
-      "owner_repo": "larksuite/cli",
-      "installs": null,
-      "page_url": "https://skills.sh/larksuite/cli/lark-contact",
       "category": "all_time"
     },
     {
@@ -300,10 +276,10 @@
     },
     {
       "rank": null,
-      "skill_name": "azure-enterprise-infra-planner",
-      "owner_repo": "microsoft/azure-skills",
+      "skill_name": "ai-video-generation",
+      "owner_repo": "agentspace-so/runcomfy-agent-skills",
       "installs": null,
-      "page_url": "https://skills.sh/microsoft/azure-skills/azure-enterprise-infra-planner",
+      "page_url": "https://skills.sh/agentspace-so/runcomfy-agent-skills/ai-video-generation",
       "category": "all_time"
     },
     {
@@ -316,14 +292,6 @@
     },
     {
       "rank": null,
-      "skill_name": "ai-video-generation",
-      "owner_repo": "agentspace-so/runcomfy-agent-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/agentspace-so/runcomfy-agent-skills/ai-video-generation",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
       "skill_name": "ai-image-generation",
       "owner_repo": "agentspace-so/runcomfy-agent-skills",
       "installs": null,
@@ -332,10 +300,10 @@
     },
     {
       "rank": null,
-      "skill_name": "github-actions-docs",
-      "owner_repo": "xixu-me/skills",
+      "skill_name": "azure-enterprise-infra-planner",
+      "owner_repo": "microsoft/azure-skills",
       "installs": null,
-      "page_url": "https://skills.sh/xixu-me/skills/github-actions-docs",
+      "page_url": "https://skills.sh/microsoft/azure-skills/azure-enterprise-infra-planner",
       "category": "all_time"
     },
     {
@@ -364,18 +332,10 @@
     },
     {
       "rank": null,
-      "skill_name": "brainstorming",
-      "owner_repo": "obra/superpowers",
+      "skill_name": "github-actions-docs",
+      "owner_repo": "xixu-me/skills",
       "installs": null,
-      "page_url": "https://skills.sh/obra/superpowers/brainstorming",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "azure-kubernetes",
-      "owner_repo": "microsoft/azure-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/microsoft/azure-skills/azure-kubernetes",
+      "page_url": "https://skills.sh/xixu-me/skills/github-actions-docs",
       "category": "all_time"
     },
     {
@@ -388,18 +348,18 @@
     },
     {
       "rank": null,
-      "skill_name": "lark-vc-agent",
-      "owner_repo": "site/open.feishu.cn",
+      "skill_name": "brainstorming",
+      "owner_repo": "obra/superpowers",
       "installs": null,
-      "page_url": "https://skills.sh/site/open.feishu.cn/lark-vc-agent",
+      "page_url": "https://skills.sh/obra/superpowers/brainstorming",
       "category": "all_time"
     },
     {
       "rank": null,
-      "skill_name": "controlnet-pose",
-      "owner_repo": "agentspace-so/runcomfy-agent-skills",
+      "skill_name": "lark-vc-agent",
+      "owner_repo": "site/open.feishu.cn",
       "installs": null,
-      "page_url": "https://skills.sh/agentspace-so/runcomfy-agent-skills/controlnet-pose",
+      "page_url": "https://skills.sh/site/open.feishu.cn/lark-vc-agent",
       "category": "all_time"
     },
     {
@@ -412,26 +372,18 @@
     },
     {
       "rank": null,
-      "skill_name": "video-outpainting",
-      "owner_repo": "agentspace-so/runcomfy-agent-skills",
+      "skill_name": "azure-kubernetes",
+      "owner_repo": "microsoft/azure-skills",
       "installs": null,
-      "page_url": "https://skills.sh/agentspace-so/runcomfy-agent-skills/video-outpainting",
+      "page_url": "https://skills.sh/microsoft/azure-skills/azure-kubernetes",
       "category": "all_time"
     },
     {
       "rank": null,
-      "skill_name": "secure-linux-web-hosting",
+      "skill_name": "use-my-browser",
       "owner_repo": "xixu-me/skills",
       "installs": null,
-      "page_url": "https://skills.sh/xixu-me/skills/secure-linux-web-hosting",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "ui-ux-pro-max",
-      "owner_repo": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "installs": null,
-      "page_url": "https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max",
+      "page_url": "https://skills.sh/xixu-me/skills/use-my-browser",
       "category": "all_time"
     },
     {
@@ -452,6 +404,14 @@
     },
     {
       "rank": null,
+      "skill_name": "ui-ux-pro-max",
+      "owner_repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "installs": null,
+      "page_url": "https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
       "skill_name": "handoff",
       "owner_repo": "mattpocock/skills",
       "installs": null,
@@ -468,10 +428,10 @@
     },
     {
       "rank": null,
-      "skill_name": "diagnose",
+      "skill_name": "prototype",
       "owner_repo": "mattpocock/skills",
       "installs": null,
-      "page_url": "https://skills.sh/mattpocock/skills/diagnose",
+      "page_url": "https://skills.sh/mattpocock/skills/prototype",
       "category": "all_time"
     },
     {
@@ -484,10 +444,10 @@
     },
     {
       "rank": null,
-      "skill_name": "prototype",
+      "skill_name": "diagnose",
       "owner_repo": "mattpocock/skills",
       "installs": null,
-      "page_url": "https://skills.sh/mattpocock/skills/prototype",
+      "page_url": "https://skills.sh/mattpocock/skills/diagnose",
       "category": "all_time"
     },
     {
@@ -524,14 +484,6 @@
     },
     {
       "rank": null,
-      "skill_name": "caveman",
-      "owner_repo": "mattpocock/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/mattpocock/skills/caveman",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
       "skill_name": "lark-okr",
       "owner_repo": "larksuite/cli",
       "installs": null,
@@ -540,10 +492,10 @@
     },
     {
       "rank": null,
-      "skill_name": "just-scrape",
-      "owner_repo": "scrapegraphai/just-scrape",
+      "skill_name": "caveman",
+      "owner_repo": "mattpocock/skills",
       "installs": null,
-      "page_url": "https://skills.sh/scrapegraphai/just-scrape/just-scrape",
+      "page_url": "https://skills.sh/mattpocock/skills/caveman",
       "category": "all_time"
     },
     {
@@ -560,6 +512,14 @@
       "owner_repo": "site/open.feishu.cn",
       "installs": null,
       "page_url": "https://skills.sh/site/open.feishu.cn/lark-apps",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "just-scrape",
+      "owner_repo": "scrapegraphai/just-scrape",
+      "installs": null,
+      "page_url": "https://skills.sh/scrapegraphai/just-scrape/just-scrape",
       "category": "all_time"
     },
     {
@@ -588,38 +548,6 @@
     },
     {
       "rank": null,
-      "skill_name": "controlnet-pose",
-      "owner_repo": "doany-ai/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/doany-ai/skills/controlnet-pose",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "image-outpainting",
-      "owner_repo": "doany-ai/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/doany-ai/skills/image-outpainting",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "flux-2-klein",
-      "owner_repo": "runcomfy-com/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/runcomfy-com/skills/flux-2-klein",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "runcomfy-cli",
-      "owner_repo": "doany-ai/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/doany-ai/skills/runcomfy-cli",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
       "skill_name": "seedance-v2",
       "owner_repo": "runcomfy-com/skills",
       "installs": null,
@@ -628,10 +556,34 @@
     },
     {
       "rank": null,
-      "skill_name": "nano-banana-2",
+      "skill_name": "face-swap",
+      "owner_repo": "runcomfy-com/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/runcomfy-com/skills/face-swap",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "gpt-image-2",
       "owner_repo": "doany-ai/skills",
       "installs": null,
-      "page_url": "https://skills.sh/doany-ai/skills/nano-banana-2",
+      "page_url": "https://skills.sh/doany-ai/skills/gpt-image-2",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "ai-video-generation",
+      "owner_repo": "runcomfy-com/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/runcomfy-com/skills/ai-video-generation",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "happyhorse-1-0",
+      "owner_repo": "doany-ai/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/doany-ai/skills/happyhorse-1-0",
       "category": "all_time"
     },
     {
@@ -644,18 +596,74 @@
     },
     {
       "rank": null,
-      "skill_name": "image-to-video",
-      "owner_repo": "runcomfy-com/skills",
+      "skill_name": "seedance-v2",
+      "owner_repo": "doany-ai/skills",
       "installs": null,
-      "page_url": "https://skills.sh/runcomfy-com/skills/image-to-video",
+      "page_url": "https://skills.sh/doany-ai/skills/seedance-v2",
       "category": "all_time"
     },
     {
       "rank": null,
-      "skill_name": "ai-video-generation",
+      "skill_name": "flux-2-klein",
       "owner_repo": "runcomfy-com/skills",
       "installs": null,
-      "page_url": "https://skills.sh/runcomfy-com/skills/ai-video-generation",
+      "page_url": "https://skills.sh/runcomfy-com/skills/flux-2-klein",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "controlnet-pose",
+      "owner_repo": "runcomfy-com/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/runcomfy-com/skills/controlnet-pose",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "image-inpainting",
+      "owner_repo": "doany-ai/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/doany-ai/skills/image-inpainting",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "gpt-image-2",
+      "owner_repo": "runcomfy-com/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/runcomfy-com/skills/gpt-image-2",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "codex-pet",
+      "owner_repo": "runcomfy-com/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/runcomfy-com/skills/codex-pet",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "nano-banana-2",
+      "owner_repo": "doany-ai/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/doany-ai/skills/nano-banana-2",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "elevenlabs-music-generation",
+      "owner_repo": "runcomfy-com/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/runcomfy-com/skills/elevenlabs-music-generation",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "relight",
+      "owner_repo": "doany-ai/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/doany-ai/skills/relight",
       "category": "all_time"
     },
     {
@@ -676,22 +684,6 @@
     },
     {
       "rank": null,
-      "skill_name": "image-inpainting",
-      "owner_repo": "runcomfy-com/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/runcomfy-com/skills/image-inpainting",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "flux-2-klein",
-      "owner_repo": "doany-ai/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/doany-ai/skills/flux-2-klein",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
       "skill_name": "video-extend",
       "owner_repo": "doany-ai/skills",
       "installs": null,
@@ -700,98 +692,10 @@
     },
     {
       "rank": null,
-      "skill_name": "ai-music",
-      "owner_repo": "runcomfy-com/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/runcomfy-com/skills/ai-music",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
       "skill_name": "image-inpainting",
-      "owner_repo": "doany-ai/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/doany-ai/skills/image-inpainting",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "gpt-image-edit",
-      "owner_repo": "doany-ai/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/doany-ai/skills/gpt-image-edit",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "image-edit",
-      "owner_repo": "doany-ai/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/doany-ai/skills/image-edit",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "video-inpainting",
       "owner_repo": "runcomfy-com/skills",
       "installs": null,
-      "page_url": "https://skills.sh/runcomfy-com/skills/video-inpainting",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "video-outpainting",
-      "owner_repo": "doany-ai/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/doany-ai/skills/video-outpainting",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "controlnet-pose",
-      "owner_repo": "runcomfy-com/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/runcomfy-com/skills/controlnet-pose",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "happyhorse-1-0",
-      "owner_repo": "doany-ai/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/doany-ai/skills/happyhorse-1-0",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "ai-avatar-video",
-      "owner_repo": "doany-ai/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/doany-ai/skills/ai-avatar-video",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "lipsync",
-      "owner_repo": "runcomfy-com/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/runcomfy-com/skills/lipsync",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "gpt-image-edit",
-      "owner_repo": "runcomfy-com/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/runcomfy-com/skills/gpt-image-edit",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "runcomfy-cli",
-      "owner_repo": "runcomfy-com/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/runcomfy-com/skills/runcomfy-cli",
+      "page_url": "https://skills.sh/runcomfy-com/skills/image-inpainting",
       "category": "all_time"
     },
     {
@@ -804,18 +708,18 @@
     },
     {
       "rank": null,
-      "skill_name": "happyhorse-1-0",
+      "skill_name": "image-to-video",
       "owner_repo": "runcomfy-com/skills",
       "installs": null,
-      "page_url": "https://skills.sh/runcomfy-com/skills/happyhorse-1-0",
+      "page_url": "https://skills.sh/runcomfy-com/skills/image-to-video",
       "category": "all_time"
     },
     {
       "rank": null,
-      "skill_name": "ace-step",
-      "owner_repo": "doany-ai/skills",
+      "skill_name": "gpt-image-edit",
+      "owner_repo": "runcomfy-com/skills",
       "installs": null,
-      "page_url": "https://skills.sh/doany-ai/skills/ace-step",
+      "page_url": "https://skills.sh/runcomfy-com/skills/gpt-image-edit",
       "category": "all_time"
     },
     {
@@ -828,30 +732,6 @@
     },
     {
       "rank": null,
-      "skill_name": "image-to-video",
-      "owner_repo": "doany-ai/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/doany-ai/skills/image-to-video",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "image-outpainting",
-      "owner_repo": "runcomfy-com/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/runcomfy-com/skills/image-outpainting",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "wan-2-7",
-      "owner_repo": "runcomfy-com/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/runcomfy-com/skills/wan-2-7",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
       "skill_name": "image-edit",
       "owner_repo": "runcomfy-com/skills",
       "installs": null,
@@ -860,18 +740,42 @@
     },
     {
       "rank": null,
-      "skill_name": "flux-kontext",
+      "skill_name": "ace-step",
       "owner_repo": "doany-ai/skills",
       "installs": null,
-      "page_url": "https://skills.sh/doany-ai/skills/flux-kontext",
+      "page_url": "https://skills.sh/doany-ai/skills/ace-step",
       "category": "all_time"
     },
     {
       "rank": null,
-      "skill_name": "kling-3-0",
+      "skill_name": "gpt-image-edit",
+      "owner_repo": "doany-ai/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/doany-ai/skills/gpt-image-edit",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "ai-music",
       "owner_repo": "runcomfy-com/skills",
       "installs": null,
-      "page_url": "https://skills.sh/runcomfy-com/skills/kling-3-0",
+      "page_url": "https://skills.sh/runcomfy-com/skills/ai-music",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "image-edit",
+      "owner_repo": "doany-ai/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/doany-ai/skills/image-edit",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "lipsync",
+      "owner_repo": "runcomfy-com/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/runcomfy-com/skills/lipsync",
       "category": "all_time"
     },
     {
@@ -884,42 +788,18 @@
     },
     {
       "rank": null,
+      "skill_name": "happyhorse-1-0",
+      "owner_repo": "runcomfy-com/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/runcomfy-com/skills/happyhorse-1-0",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
       "skill_name": "ai-video-generation",
       "owner_repo": "doany-ai/skills",
       "installs": null,
       "page_url": "https://skills.sh/doany-ai/skills/ai-video-generation",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "flux-kontext",
-      "owner_repo": "runcomfy-com/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/runcomfy-com/skills/flux-kontext",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "ace-step",
-      "owner_repo": "runcomfy-com/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/runcomfy-com/skills/ace-step",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "nano-banana-2",
-      "owner_repo": "runcomfy-com/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/runcomfy-com/skills/nano-banana-2",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "kling-3-0",
-      "owner_repo": "doany-ai/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/doany-ai/skills/kling-3-0",
       "category": "all_time"
     },
     {
@@ -932,10 +812,10 @@
     },
     {
       "rank": null,
-      "skill_name": "video-inpainting",
+      "skill_name": "ai-music",
       "owner_repo": "doany-ai/skills",
       "installs": null,
-      "page_url": "https://skills.sh/doany-ai/skills/video-inpainting",
+      "page_url": "https://skills.sh/doany-ai/skills/ai-music",
       "category": "all_time"
     },
     {
@@ -956,10 +836,10 @@
     },
     {
       "rank": null,
-      "skill_name": "caveman-commit",
-      "owner_repo": "juliusbrussee/caveman",
+      "skill_name": "remotion-render",
+      "owner_repo": "halt-catch-fire/skills",
       "installs": null,
-      "page_url": "https://skills.sh/juliusbrussee/caveman/caveman-commit",
+      "page_url": "https://skills.sh/halt-catch-fire/skills/remotion-render",
       "category": "all_time"
     },
     {
@@ -972,26 +852,10 @@
     },
     {
       "rank": null,
-      "skill_name": "caveman-review",
+      "skill_name": "caveman-commit",
       "owner_repo": "juliusbrussee/caveman",
       "installs": null,
-      "page_url": "https://skills.sh/juliusbrussee/caveman/caveman-review",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "caveman-compress",
-      "owner_repo": "juliusbrussee/caveman",
-      "installs": null,
-      "page_url": "https://skills.sh/juliusbrussee/caveman/caveman-compress",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "caveman-help",
-      "owner_repo": "juliusbrussee/caveman",
-      "installs": null,
-      "page_url": "https://skills.sh/juliusbrussee/caveman/caveman-help",
+      "page_url": "https://skills.sh/juliusbrussee/caveman/caveman-commit",
       "category": "all_time"
     },
     {
@@ -1008,14 +872,6 @@
       "owner_repo": "pbakaus/impeccable",
       "installs": null,
       "page_url": "https://skills.sh/pbakaus/impeccable/impeccable",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "remotion-render",
-      "owner_repo": "halt-catch-fire/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/halt-catch-fire/skills/remotion-render",
       "category": "all_time"
     },
     {
@@ -1132,18 +988,10 @@
     },
     {
       "rank": null,
-      "skill_name": "paper-context-resolver",
-      "owner_repo": "lllllllama/ai-paper-reproduction-skill",
+      "skill_name": "minimalist-ui",
+      "owner_repo": "leonxlnx/taste-skill",
       "installs": null,
-      "page_url": "https://skills.sh/lllllllama/ai-paper-reproduction-skill/paper-context-resolver",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "repo-intake-and-plan",
-      "owner_repo": "lllllllama/ai-paper-reproduction-skill",
-      "installs": null,
-      "page_url": "https://skills.sh/lllllllama/ai-paper-reproduction-skill/repo-intake-and-plan",
+      "page_url": "https://skills.sh/leonxlnx/taste-skill/minimalist-ui",
       "category": "all_time"
     },
     {
@@ -1156,22 +1004,6 @@
     },
     {
       "rank": null,
-      "skill_name": "env-and-assets-bootstrap",
-      "owner_repo": "lllllllama/ai-paper-reproduction-skill",
-      "installs": null,
-      "page_url": "https://skills.sh/lllllllama/ai-paper-reproduction-skill/env-and-assets-bootstrap",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "minimal-run-and-audit",
-      "owner_repo": "lllllllama/ai-paper-reproduction-skill",
-      "installs": null,
-      "page_url": "https://skills.sh/lllllllama/ai-paper-reproduction-skill/minimal-run-and-audit",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
       "skill_name": "caveman-stats",
       "owner_repo": "juliusbrussee/caveman",
       "installs": null,
@@ -1180,10 +1012,10 @@
     },
     {
       "rank": null,
-      "skill_name": "minimalist-ui",
-      "owner_repo": "leonxlnx/taste-skill",
+      "skill_name": "paper-context-resolver",
+      "owner_repo": "lllllllama/ai-paper-reproduction-skill",
       "installs": null,
-      "page_url": "https://skills.sh/leonxlnx/taste-skill/minimalist-ui",
+      "page_url": "https://skills.sh/lllllllama/ai-paper-reproduction-skill/paper-context-resolver",
       "category": "all_time"
     },
     {
@@ -1212,14 +1044,6 @@
     },
     {
       "rank": null,
-      "skill_name": "full-output-enforcement",
-      "owner_repo": "leonxlnx/taste-skill",
-      "installs": null,
-      "page_url": "https://skills.sh/leonxlnx/taste-skill/full-output-enforcement",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
       "skill_name": "hyperframes",
       "owner_repo": "heygen-com/hyperframes",
       "installs": null,
@@ -1228,10 +1052,26 @@
     },
     {
       "rank": null,
+      "skill_name": "full-output-enforcement",
+      "owner_repo": "leonxlnx/taste-skill",
+      "installs": null,
+      "page_url": "https://skills.sh/leonxlnx/taste-skill/full-output-enforcement",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
       "skill_name": "executing-plans",
       "owner_repo": "obra/superpowers",
       "installs": null,
       "page_url": "https://skills.sh/obra/superpowers/executing-plans",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "hyperframes-cli",
+      "owner_repo": "heygen-com/hyperframes",
+      "installs": null,
+      "page_url": "https://skills.sh/heygen-com/hyperframes/hyperframes-cli",
       "category": "all_time"
     },
     {
@@ -1252,10 +1092,10 @@
     },
     {
       "rank": null,
-      "skill_name": "hyperframes-cli",
+      "skill_name": "hyperframes-registry",
       "owner_repo": "heygen-com/hyperframes",
       "installs": null,
-      "page_url": "https://skills.sh/heygen-com/hyperframes/hyperframes-cli",
+      "page_url": "https://skills.sh/heygen-com/hyperframes/hyperframes-registry",
       "category": "all_time"
     },
     {
@@ -1268,10 +1108,10 @@
     },
     {
       "rank": null,
-      "skill_name": "hyperframes-registry",
-      "owner_repo": "heygen-com/hyperframes",
+      "skill_name": "teach",
+      "owner_repo": "mattpocock/skills",
       "installs": null,
-      "page_url": "https://skills.sh/heygen-com/hyperframes/hyperframes-registry",
+      "page_url": "https://skills.sh/mattpocock/skills/teach",
       "category": "all_time"
     },
     {
@@ -1284,10 +1124,10 @@
     },
     {
       "rank": null,
-      "skill_name": "teach",
-      "owner_repo": "mattpocock/skills",
+      "skill_name": "gpt-taste",
+      "owner_repo": "leonxlnx/taste-skill",
       "installs": null,
-      "page_url": "https://skills.sh/mattpocock/skills/teach",
+      "page_url": "https://skills.sh/leonxlnx/taste-skill/gpt-taste",
       "category": "all_time"
     },
     {
@@ -1304,14 +1144,6 @@
       "owner_repo": "obra/superpowers",
       "installs": null,
       "page_url": "https://skills.sh/obra/superpowers/verification-before-completion",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
-      "skill_name": "gpt-taste",
-      "owner_repo": "leonxlnx/taste-skill",
-      "installs": null,
-      "page_url": "https://skills.sh/leonxlnx/taste-skill/gpt-taste",
       "category": "all_time"
     },
     {
@@ -1348,18 +1180,18 @@
     },
     {
       "rank": null,
-      "skill_name": "imagegen-frontend-web",
-      "owner_repo": "leonxlnx/taste-skill",
-      "installs": null,
-      "page_url": "https://skills.sh/leonxlnx/taste-skill/imagegen-frontend-web",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
       "skill_name": "remotion-to-hyperframes",
       "owner_repo": "heygen-com/hyperframes",
       "installs": null,
       "page_url": "https://skills.sh/heygen-com/hyperframes/remotion-to-hyperframes",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "imagegen-frontend-web",
+      "owner_repo": "leonxlnx/taste-skill",
+      "installs": null,
+      "page_url": "https://skills.sh/leonxlnx/taste-skill/imagegen-frontend-web",
       "category": "all_time"
     },
     {
@@ -1380,18 +1212,18 @@
     },
     {
       "rank": null,
-      "skill_name": "webapp-testing",
-      "owner_repo": "anthropics/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/anthropics/skills/webapp-testing",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
       "skill_name": "hyperframes-media",
       "owner_repo": "heygen-com/hyperframes",
       "installs": null,
       "page_url": "https://skills.sh/heygen-com/hyperframes/hyperframes-media",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "webapp-testing",
+      "owner_repo": "anthropics/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/anthropics/skills/webapp-testing",
       "category": "all_time"
     },
     {
@@ -1444,14 +1276,6 @@
     },
     {
       "rank": null,
-      "skill_name": "gsap",
-      "owner_repo": "heygen-com/hyperframes",
-      "installs": null,
-      "page_url": "https://skills.sh/heygen-com/hyperframes/gsap",
-      "category": "all_time"
-    },
-    {
-      "rank": null,
       "skill_name": "sentry-cli",
       "owner_repo": "sentry/dev",
       "installs": null,
@@ -1464,6 +1288,14 @@
       "owner_repo": "firebase/agent-skills",
       "installs": null,
       "page_url": "https://skills.sh/firebase/agent-skills/firebase-auth-basics",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "gsap",
+      "owner_repo": "heygen-com/hyperframes",
+      "installs": null,
+      "page_url": "https://skills.sh/heygen-com/hyperframes/gsap",
       "category": "all_time"
     },
     {
@@ -1484,6 +1316,14 @@
     },
     {
       "rank": null,
+      "skill_name": "firebase-app-hosting-basics",
+      "owner_repo": "firebase/agent-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/firebase/agent-skills/firebase-app-hosting-basics",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
       "skill_name": "website-to-hyperframes",
       "owner_repo": "heygen-com/hyperframes",
       "installs": null,
@@ -1492,10 +1332,138 @@
     },
     {
       "rank": null,
-      "skill_name": "firebase-app-hosting-basics",
+      "skill_name": "firebase-data-connect",
       "owner_repo": "firebase/agent-skills",
       "installs": null,
-      "page_url": "https://skills.sh/firebase/agent-skills/firebase-app-hosting-basics",
+      "page_url": "https://skills.sh/firebase/agent-skills/firebase-data-connect",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "lark-note",
+      "owner_repo": "site/open.feishu.cn",
+      "installs": null,
+      "page_url": "https://skills.sh/site/open.feishu.cn/lark-note",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "polish",
+      "owner_repo": "pbakaus/impeccable",
+      "installs": null,
+      "page_url": "https://skills.sh/pbakaus/impeccable/polish",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "copy-editing",
+      "owner_repo": "coreyhaines31/marketingskills",
+      "installs": null,
+      "page_url": "https://skills.sh/coreyhaines31/marketingskills/copy-editing",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "design-an-interface",
+      "owner_repo": "mattpocock/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/mattpocock/skills/design-an-interface",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "critique",
+      "owner_repo": "pbakaus/impeccable",
+      "installs": null,
+      "page_url": "https://skills.sh/pbakaus/impeccable/critique",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "request-refactor-plan",
+      "owner_repo": "mattpocock/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/mattpocock/skills/request-refactor-plan",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "clarify",
+      "owner_repo": "pbakaus/impeccable",
+      "installs": null,
+      "page_url": "https://skills.sh/pbakaus/impeccable/clarify",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "optimize",
+      "owner_repo": "pbakaus/impeccable",
+      "installs": null,
+      "page_url": "https://skills.sh/pbakaus/impeccable/optimize",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "firecrawl",
+      "owner_repo": "firecrawl/cli",
+      "installs": null,
+      "page_url": "https://skills.sh/firecrawl/cli/firecrawl",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "colorize",
+      "owner_repo": "pbakaus/impeccable",
+      "installs": null,
+      "page_url": "https://skills.sh/pbakaus/impeccable/colorize",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "mcp-builder",
+      "owner_repo": "anthropics/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/anthropics/skills/mcp-builder",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "browser-use",
+      "owner_repo": "browser-use/browser-use",
+      "installs": null,
+      "page_url": "https://skills.sh/browser-use/browser-use/browser-use",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "bolder",
+      "owner_repo": "pbakaus/impeccable",
+      "installs": null,
+      "page_url": "https://skills.sh/pbakaus/impeccable/bolder",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "ai-seo",
+      "owner_repo": "coreyhaines31/marketingskills",
+      "installs": null,
+      "page_url": "https://skills.sh/coreyhaines31/marketingskills/ai-seo",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "delight",
+      "owner_repo": "pbakaus/impeccable",
+      "installs": null,
+      "page_url": "https://skills.sh/pbakaus/impeccable/delight",
+      "category": "all_time"
+    },
+    {
+      "rank": null,
+      "skill_name": "distill",
+      "owner_repo": "pbakaus/impeccable",
+      "installs": null,
+      "page_url": "https://skills.sh/pbakaus/impeccable/distill",
       "category": "all_time"
     }
   ]
