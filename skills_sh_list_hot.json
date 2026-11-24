@@ -1,165 +1,37 @@
 {
-  "timestamp": "2026-11-23T17:18:35Z",
-  "count": 197,
+  "timestamp": "2026-11-24T16:55:42Z",
+  "count": 180,
   "rows": [
     {
       "rank": null,
-      "skill_name": "ui-taste",
-      "owner_repo": "site/uizze.sh",
+      "skill_name": "analyze-project",
+      "owner_repo": "lllllllama/rigorpilot-skills",
       "installs": null,
-      "page_url": "https://skills.sh/site/uizze.sh/ui-taste",
+      "page_url": "https://skills.sh/lllllllama/rigorpilot-skills/analyze-project",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "uizze-ui",
-      "owner_repo": "uizze/uizze",
+      "skill_name": "user-interview-guide",
+      "owner_repo": "uxpilot-ai/user-interview-skill",
       "installs": null,
-      "page_url": "https://skills.sh/uizze/uizze/uizze-ui",
+      "page_url": "https://skills.sh/uxpilot-ai/user-interview-skill/user-interview-guide",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "image-to-ui",
-      "owner_repo": "uizze/uizze",
+      "skill_name": "gemini-frontend-design",
+      "owner_repo": "google-gemini/demolab",
       "installs": null,
-      "page_url": "https://skills.sh/uizze/uizze/image-to-ui",
+      "page_url": "https://skills.sh/google-gemini/demolab/gemini-frontend-design",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "mastra",
-      "owner_repo": "mastra-ai/skills",
+      "skill_name": "next-cache-components-adoption",
+      "owner_repo": "vercel/next.js",
       "installs": null,
-      "page_url": "https://skills.sh/mastra-ai/skills/mastra",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "taxonomy",
-      "owner_repo": "amplitude/mcp-marketplace",
-      "installs": null,
-      "page_url": "https://skills.sh/amplitude/mcp-marketplace/taxonomy",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "nx-workspace",
-      "owner_repo": "nrwl/nx-ai-agents-config",
-      "installs": null,
-      "page_url": "https://skills.sh/nrwl/nx-ai-agents-config/nx-workspace",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "instrument-events",
-      "owner_repo": "amplitude/mcp-marketplace",
-      "installs": null,
-      "page_url": "https://skills.sh/amplitude/mcp-marketplace/instrument-events",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "fastify-best-practices",
-      "owner_repo": "mcollina/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/mcollina/skills/fastify-best-practices",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "add-analytics-instrumentation",
-      "owner_repo": "amplitude/mcp-marketplace",
-      "installs": null,
-      "page_url": "https://skills.sh/amplitude/mcp-marketplace/add-analytics-instrumentation",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "design-doc-mermaid",
-      "owner_repo": "spillwavesolutions/design-doc-mermaid",
-      "installs": null,
-      "page_url": "https://skills.sh/spillwavesolutions/design-doc-mermaid/design-doc-mermaid",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "review-pr",
-      "owner_repo": "dbpolito/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/dbpolito/skills/review-pr",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "agent-fs",
-      "owner_repo": "desplega-ai/agent-fs",
-      "installs": null,
-      "page_url": "https://skills.sh/desplega-ai/agent-fs/agent-fs",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "byted-supabase",
-      "owner_repo": "site/skills.volces.com",
-      "installs": null,
-      "page_url": "https://skills.sh/site/skills.volces.com/byted-supabase",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "cx-observability-setup",
-      "owner_repo": "coralogix/cx-cli",
-      "installs": null,
-      "page_url": "https://skills.sh/coralogix/cx-cli/cx-observability-setup",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "k2f-flyer",
-      "owner_repo": "suzheng/k2f",
-      "installs": null,
-      "page_url": "https://skills.sh/suzheng/k2f/k2f-flyer",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "linear-cli",
-      "owner_repo": "schpet/linear-cli",
-      "installs": null,
-      "page_url": "https://skills.sh/schpet/linear-cli/linear-cli",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "supabase-audit-functions",
-      "owner_repo": "yoanbernabeu/supabase-pentest-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/yoanbernabeu/supabase-pentest-skills/supabase-audit-functions",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "core",
-      "owner_repo": "vercel-labs/json-render",
-      "installs": null,
-      "page_url": "https://skills.sh/vercel-labs/json-render/core",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "browser-use",
-      "owner_repo": "browser-use/browser-use",
-      "installs": null,
-      "page_url": "https://skills.sh/browser-use/browser-use/browser-use",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "react",
-      "owner_repo": "vercel-labs/json-render",
-      "installs": null,
-      "page_url": "https://skills.sh/vercel-labs/json-render/react",
+      "page_url": "https://skills.sh/vercel/next.js/next-cache-components-adoption",
       "category": "hot"
     },
     {
@@ -172,98 +44,946 @@
     },
     {
       "rank": null,
-      "skill_name": "terraform-style-guide",
-      "owner_repo": "hashicorp/agent-skills",
+      "skill_name": "remotion-captions",
+      "owner_repo": "remotion-dev/skills",
       "installs": null,
-      "page_url": "https://skills.sh/hashicorp/agent-skills/terraform-style-guide",
+      "page_url": "https://skills.sh/remotion-dev/skills/remotion-captions",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "feature-forge",
-      "owner_repo": "jeffallan/claude-skills",
+      "skill_name": "instagram-scraper",
+      "owner_repo": "apidojo-io/social-media-skills",
       "installs": null,
-      "page_url": "https://skills.sh/jeffallan/claude-skills/feature-forge",
+      "page_url": "https://skills.sh/apidojo-io/social-media-skills/instagram-scraper",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "layer-image-editing",
-      "owner_repo": "layerai/skills",
+      "skill_name": "remotion-markup",
+      "owner_repo": "remotion-dev/skills",
       "installs": null,
-      "page_url": "https://skills.sh/layerai/skills/layer-image-editing",
+      "page_url": "https://skills.sh/remotion-dev/skills/remotion-markup",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "websocket-engineer",
-      "owner_repo": "jeffallan/claude-skills",
+      "skill_name": "remotion-create",
+      "owner_repo": "remotion-dev/skills",
       "installs": null,
-      "page_url": "https://skills.sh/jeffallan/claude-skills/websocket-engineer",
+      "page_url": "https://skills.sh/remotion-dev/skills/remotion-create",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "gh-stack",
-      "owner_repo": "github/gh-stack",
+      "skill_name": "remotion-maps",
+      "owner_repo": "remotion-dev/skills",
       "installs": null,
-      "page_url": "https://skills.sh/github/gh-stack/gh-stack",
+      "page_url": "https://skills.sh/remotion-dev/skills/remotion-maps",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "k2f-worksheet",
-      "owner_repo": "suzheng/k2f",
+      "skill_name": "google-agents-cli-adk-code",
+      "owner_repo": "google/agents-cli",
       "installs": null,
-      "page_url": "https://skills.sh/suzheng/k2f/k2f-worksheet",
+      "page_url": "https://skills.sh/google/agents-cli/google-agents-cli-adk-code",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "k2f-event-poster",
-      "owner_repo": "suzheng/k2f",
+      "skill_name": "diagram-design",
+      "owner_repo": "cathrynlavery/diagram-design",
       "installs": null,
-      "page_url": "https://skills.sh/suzheng/k2f/k2f-event-poster",
+      "page_url": "https://skills.sh/cathrynlavery/diagram-design/diagram-design",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "article-highlights",
-      "owner_repo": "liamrjohnston/remotion-motion-graphics-skill",
+      "skill_name": "remotion-license",
+      "owner_repo": "remotion-dev/skills",
       "installs": null,
-      "page_url": "https://skills.sh/liamrjohnston/remotion-motion-graphics-skill/article-highlights",
+      "page_url": "https://skills.sh/remotion-dev/skills/remotion-license",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "skill-doctor",
-      "owner_repo": "warpdotdev/common-skills",
+      "skill_name": "google-agents-cli-deploy",
+      "owner_repo": "google/agents-cli",
       "installs": null,
-      "page_url": "https://skills.sh/warpdotdev/common-skills/skill-doctor",
+      "page_url": "https://skills.sh/google/agents-cli/google-agents-cli-deploy",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "terminal-inserts",
-      "owner_repo": "liamrjohnston/remotion-motion-graphics-skill",
+      "skill_name": "remotion-multimedia",
+      "owner_repo": "remotion-dev/skills",
       "installs": null,
-      "page_url": "https://skills.sh/liamrjohnston/remotion-motion-graphics-skill/terminal-inserts",
+      "page_url": "https://skills.sh/remotion-dev/skills/remotion-multimedia",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "motion-graphics",
-      "owner_repo": "liamrjohnston/remotion-motion-graphics-skill",
+      "skill_name": "remotion-upgrade",
+      "owner_repo": "remotion-dev/skills",
       "installs": null,
-      "page_url": "https://skills.sh/liamrjohnston/remotion-motion-graphics-skill/motion-graphics",
+      "page_url": "https://skills.sh/remotion-dev/skills/remotion-upgrade",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "k2f-resume",
-      "owner_repo": "suzheng/k2f",
+      "skill_name": "google-agents-cli-observability",
+      "owner_repo": "google/agents-cli",
       "installs": null,
-      "page_url": "https://skills.sh/suzheng/k2f/k2f-resume",
+      "page_url": "https://skills.sh/google/agents-cli/google-agents-cli-observability",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "hallmark",
+      "owner_repo": "nutlope/hallmark",
+      "installs": null,
+      "page_url": "https://skills.sh/nutlope/hallmark/hallmark",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "gsap-timeline",
+      "owner_repo": "greensock/gsap-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/greensock/gsap-skills/gsap-timeline",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "gsap-frameworks",
+      "owner_repo": "greensock/gsap-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/greensock/gsap-skills/gsap-frameworks",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "mcp-apps-builder",
+      "owner_repo": "mcp-use/mcp-use",
+      "installs": null,
+      "page_url": "https://skills.sh/mcp-use/mcp-use/mcp-apps-builder",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "remotion-interactivity",
+      "owner_repo": "remotion-dev/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/remotion-dev/skills/remotion-interactivity",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "gsap-plugins",
+      "owner_repo": "greensock/gsap-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/greensock/gsap-skills/gsap-plugins",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "gsap-utils",
+      "owner_repo": "greensock/gsap-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/greensock/gsap-skills/gsap-utils",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "gsap-react",
+      "owner_repo": "greensock/gsap-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/greensock/gsap-skills/gsap-react",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "chrome-devtools-cli",
+      "owner_repo": "chromedevtools/chrome-devtools-mcp",
+      "installs": null,
+      "page_url": "https://skills.sh/chromedevtools/chrome-devtools-mcp/chrome-devtools-cli",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "volcengine-cli",
+      "owner_repo": "volcengine/volcengine-agent-toolkit",
+      "installs": null,
+      "page_url": "https://skills.sh/volcengine/volcengine-agent-toolkit/volcengine-cli",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "gemini-api-cli",
+      "owner_repo": "google-gemini/gemini-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/google-gemini/gemini-skills/gemini-api-cli",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "no-mistakes",
+      "owner_repo": "kunchenguid/no-mistakes",
+      "installs": null,
+      "page_url": "https://skills.sh/kunchenguid/no-mistakes/no-mistakes",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "gh-axi",
+      "owner_repo": "kunchenguid/gh-axi",
+      "installs": null,
+      "page_url": "https://skills.sh/kunchenguid/gh-axi/gh-axi",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "bmad-brainstorming",
+      "owner_repo": "bmad-code-org/bmad-method",
+      "installs": null,
+      "page_url": "https://skills.sh/bmad-code-org/bmad-method/bmad-brainstorming",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "motion-design",
+      "owner_repo": "lottiefiles/motion-design-skill",
+      "installs": null,
+      "page_url": "https://skills.sh/lottiefiles/motion-design-skill/motion-design",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "bmad-toolsmith",
+      "owner_repo": "bmad-code-org/bmad-method",
+      "installs": null,
+      "page_url": "https://skills.sh/bmad-code-org/bmad-method/bmad-toolsmith",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "bmad-eval",
+      "owner_repo": "bmad-code-org/bmad-method",
+      "installs": null,
+      "page_url": "https://skills.sh/bmad-code-org/bmad-method/bmad-eval",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "bmod-toolsmith",
+      "owner_repo": "bmad-code-org/bmad-method",
+      "installs": null,
+      "page_url": "https://skills.sh/bmad-code-org/bmad-method/bmod-toolsmith",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "bmad-tea-nfr",
+      "owner_repo": "bmad-code-org/bmad-method-test-architecture-enterprise",
+      "installs": null,
+      "page_url": "https://skills.sh/bmad-code-org/bmad-method-test-architecture-enterprise/bmad-tea-nfr",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "wkc-architect",
+      "owner_repo": "wilsonkichoi/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/wilsonkichoi/skills/wkc-architect",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "gsap-core",
+      "owner_repo": "greensock/gsap-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/greensock/gsap-skills/gsap-core",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "gsap-performance",
+      "owner_repo": "greensock/gsap-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/greensock/gsap-skills/gsap-performance",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "bmad-retrospective",
+      "owner_repo": "bmad-code-org/bmad-method",
+      "installs": null,
+      "page_url": "https://skills.sh/bmad-code-org/bmad-method/bmad-retrospective",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "firebase-remote-config-basics",
+      "owner_repo": "firebase/agent-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/firebase/agent-skills/firebase-remote-config-basics",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "bmad-deep-recon",
+      "owner_repo": "bmad-code-org/bmad-method",
+      "installs": null,
+      "page_url": "https://skills.sh/bmad-code-org/bmad-method/bmad-deep-recon",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "expo-native-ui",
+      "owner_repo": "expo/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/expo/skills/expo-native-ui",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "bmad-review",
+      "owner_repo": "bmad-code-org/bmad-method",
+      "installs": null,
+      "page_url": "https://skills.sh/bmad-code-org/bmad-method/bmad-review",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "bmad-advanced-elicitation",
+      "owner_repo": "bmad-code-org/bmad-method",
+      "installs": null,
+      "page_url": "https://skills.sh/bmad-code-org/bmad-method/bmad-advanced-elicitation",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "bmad-tea",
+      "owner_repo": "bmad-code-org/bmad-method-test-architecture-enterprise",
+      "installs": null,
+      "page_url": "https://skills.sh/bmad-code-org/bmad-method-test-architecture-enterprise/bmad-tea",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "chrome-devtools-axi",
+      "owner_repo": "kunchenguid/chrome-devtools-axi",
+      "installs": null,
+      "page_url": "https://skills.sh/kunchenguid/chrome-devtools-axi/chrome-devtools-axi",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "x-scraper",
+      "owner_repo": "apidojo-io/social-media-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/apidojo-io/social-media-skills/x-scraper",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "bmad-agent-pm",
+      "owner_repo": "bmad-code-org/bmad-method",
+      "installs": null,
+      "page_url": "https://skills.sh/bmad-code-org/bmad-method/bmad-agent-pm",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "firebase-security-rules-auditor",
+      "owner_repo": "firebase/agent-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/firebase/agent-skills/firebase-security-rules-auditor",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "firebase-basics",
+      "owner_repo": "firebase/agent-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/firebase/agent-skills/firebase-basics",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "bmad-build-auto",
+      "owner_repo": "bmad-code-org/bmad-method",
+      "installs": null,
+      "page_url": "https://skills.sh/bmad-code-org/bmad-method/bmad-build-auto",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "firestore-rules-creation",
+      "owner_repo": "firebase/agent-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/firebase/agent-skills/firestore-rules-creation",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "bmad-facilitate",
+      "owner_repo": "bmad-code-org/bmad-method",
+      "installs": null,
+      "page_url": "https://skills.sh/bmad-code-org/bmad-method/bmad-facilitate",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "bmod-core-tools",
+      "owner_repo": "bmad-code-org/bmad-method",
+      "installs": null,
+      "page_url": "https://skills.sh/bmad-code-org/bmad-method/bmod-core-tools",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "bmad",
+      "owner_repo": "bmad-code-org/bmad-method",
+      "installs": null,
+      "page_url": "https://skills.sh/bmad-code-org/bmad-method/bmad",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "agent-browser",
+      "owner_repo": "its-a-skill-issue/superpowers",
+      "installs": null,
+      "page_url": "https://skills.sh/its-a-skill-issue/superpowers/agent-browser",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "video-ad-specs",
+      "owner_repo": "101-skills/superpowers",
+      "installs": null,
+      "page_url": "https://skills.sh/101-skills/superpowers/video-ad-specs",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "write-rfc",
+      "owner_repo": "site/skills.sh",
+      "installs": null,
+      "page_url": "https://skills.sh/site/skills.sh/write-rfc",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "10x-simpler-prose",
+      "owner_repo": "lihbr/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/lihbr/skills/10x-simpler-prose",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "10x-simpler-code",
+      "owner_repo": "lihbr/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/lihbr/skills/10x-simpler-code",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "simple-english",
+      "owner_repo": "lihbr/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/lihbr/skills/simple-english",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "astrale-cli",
+      "owner_repo": "astrale-os/cli",
+      "installs": null,
+      "page_url": "https://skills.sh/astrale-os/cli/astrale-cli",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "astrale-domain",
+      "owner_repo": "astrale-os/cli",
+      "installs": null,
+      "page_url": "https://skills.sh/astrale-os/cli/astrale-domain",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "remotion-best-practices",
+      "owner_repo": "remotion-dev/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/remotion-dev/skills/remotion-best-practices",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "neon",
+      "owner_repo": "neondatabase/agent-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/neondatabase/agent-skills/neon",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "bmod-method",
+      "owner_repo": "bmad-code-org/bmad-method",
+      "installs": null,
+      "page_url": "https://skills.sh/bmad-code-org/bmad-method/bmod-method",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "firebase-firestore",
+      "owner_repo": "firebase/agent-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/firebase/agent-skills/firebase-firestore",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "firebase-ai-logic-basics",
+      "owner_repo": "firebase/agent-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/firebase/agent-skills/firebase-ai-logic-basics",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "deepline-plays-review",
+      "owner_repo": "site/code.deepline.com",
+      "installs": null,
+      "page_url": "https://skills.sh/site/code.deepline.com/deepline-plays-review",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "core-web-vitals",
+      "owner_repo": "addyosmani/web-quality-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/addyosmani/web-quality-skills/core-web-vitals",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "python-executor",
+      "owner_repo": "bankai-skills/superpowers",
+      "installs": null,
+      "page_url": "https://skills.sh/bankai-skills/superpowers/python-executor",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "landing-page-design",
+      "owner_repo": "101-skills/superpowers",
+      "installs": null,
+      "page_url": "https://skills.sh/101-skills/superpowers/landing-page-design",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "competitor-teardown",
+      "owner_repo": "101-skills/superpowers",
+      "installs": null,
+      "page_url": "https://skills.sh/101-skills/superpowers/competitor-teardown",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "bmad-founder-agent-advisor",
+      "owner_repo": "bmad-code-org/bmad-method",
+      "installs": null,
+      "page_url": "https://skills.sh/bmad-code-org/bmad-method/bmad-founder-agent-advisor",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "product-hunt-launch",
+      "owner_repo": "101-skills/superpowers",
+      "installs": null,
+      "page_url": "https://skills.sh/101-skills/superpowers/product-hunt-launch",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "deslop",
+      "owner_repo": "cursor/plugins",
+      "installs": null,
+      "page_url": "https://skills.sh/cursor/plugins/deslop",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "storyboard-creation",
+      "owner_repo": "101-skills/superpowers",
+      "installs": null,
+      "page_url": "https://skills.sh/101-skills/superpowers/storyboard-creation",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "youtube-thumbnail-design",
+      "owner_repo": "101-skills/superpowers",
+      "installs": null,
+      "page_url": "https://skills.sh/101-skills/superpowers/youtube-thumbnail-design",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "best-practices",
+      "owner_repo": "addyosmani/web-quality-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/addyosmani/web-quality-skills/best-practices",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "sound-effects",
+      "owner_repo": "barty-bart/motion-graphics",
+      "installs": null,
+      "page_url": "https://skills.sh/barty-bart/motion-graphics/sound-effects",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "tiktok-scraper",
+      "owner_repo": "apidojo-io/social-media-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/apidojo-io/social-media-skills/tiktok-scraper",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "reframe",
+      "owner_repo": "backnotprop/pstack",
+      "installs": null,
+      "page_url": "https://skills.sh/backnotprop/pstack/reframe",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "levelplay-unity-integration",
+      "owner_repo": "unity-technologies/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/unity-technologies/skills/levelplay-unity-integration",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "unity-pipeline",
+      "owner_repo": "unity-technologies/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/unity-technologies/skills/unity-pipeline",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "gsap-scrolltrigger",
+      "owner_repo": "greensock/gsap-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/greensock/gsap-skills/gsap-scrolltrigger",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "writing-skills",
+      "owner_repo": "obra/superpowers",
+      "installs": null,
+      "page_url": "https://skills.sh/obra/superpowers/writing-skills",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "diagnosing-superpowers",
+      "owner_repo": "obra/superpowers",
+      "installs": null,
+      "page_url": "https://skills.sh/obra/superpowers/diagnosing-superpowers",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "deepline-research",
+      "owner_repo": "site/code.deepline.com",
+      "installs": null,
+      "page_url": "https://skills.sh/site/code.deepline.com/deepline-research",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "expo-data-fetching",
+      "owner_repo": "expo/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/expo/skills/expo-data-fetching",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "build-tam",
+      "owner_repo": "site/code.deepline.com",
+      "installs": null,
+      "page_url": "https://skills.sh/site/code.deepline.com/build-tam",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "web-quality-audit",
+      "owner_repo": "addyosmani/web-quality-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/addyosmani/web-quality-skills/web-quality-audit",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "setup-api-key",
+      "owner_repo": "elevenlabs/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/elevenlabs/skills/setup-api-key",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "realtime",
+      "owner_repo": "elevenlabs/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/elevenlabs/skills/realtime",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "character-design-sheet",
+      "owner_repo": "101-skills/superpowers",
+      "installs": null,
+      "page_url": "https://skills.sh/101-skills/superpowers/character-design-sheet",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "byted-web-search",
+      "owner_repo": "kotot/byted-web-search",
+      "installs": null,
+      "page_url": "https://skills.sh/kotot/byted-web-search/byted-web-search",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "planning-with-files",
+      "owner_repo": "othmanadi/planning-with-files",
+      "installs": null,
+      "page_url": "https://skills.sh/othmanadi/planning-with-files/planning-with-files",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "mysql",
+      "owner_repo": "planetscale/database-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/planetscale/database-skills/mysql",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "orbit-card",
+      "owner_repo": "heygen-com/hyperframes",
+      "installs": null,
+      "page_url": "https://skills.sh/heygen-com/hyperframes/orbit-card",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "rea-video",
+      "owner_repo": "juneyaooo/rea-video",
+      "installs": null,
+      "page_url": "https://skills.sh/juneyaooo/rea-video/rea-video",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "simple-english",
+      "owner_repo": "aminblg/simpleenglish",
+      "installs": null,
+      "page_url": "https://skills.sh/aminblg/simpleenglish/simple-english",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "cuboid-carousel",
+      "owner_repo": "heygen-com/hyperframes",
+      "installs": null,
+      "page_url": "https://skills.sh/heygen-com/hyperframes/cuboid-carousel",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "github-actions-docs",
+      "owner_repo": "xixu-me/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/xixu-me/skills/github-actions-docs",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "create-xr",
+      "owner_repo": "unity-technologies/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/unity-technologies/skills/create-xr",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "ios-hig-design",
+      "owner_repo": "wondelai/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/wondelai/skills/ios-hig-design",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "reddit-api",
+      "owner_repo": "fetcher-sh/fetcher-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/fetcher-sh/fetcher-skills/reddit-api",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "route-audio-to-mixer-groups",
+      "owner_repo": "unity-technologies/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/unity-technologies/skills/route-audio-to-mixer-groups",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "instagram-marketing",
+      "owner_repo": "sergebulaev/instagram-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/sergebulaev/instagram-skills/instagram-marketing",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "configure-2d-pixel-perfect",
+      "owner_repo": "unity-technologies/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/unity-technologies/skills/configure-2d-pixel-perfect",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "opentelemetry",
+      "owner_repo": "grafana/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/grafana/skills/opentelemetry",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "optimize-text-mesh-pro",
+      "owner_repo": "unity-technologies/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/unity-technologies/skills/optimize-text-mesh-pro",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "unity-package-management",
+      "owner_repo": "unity-technologies/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/unity-technologies/skills/unity-package-management",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "create-2d-physics",
+      "owner_repo": "unity-technologies/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/unity-technologies/skills/create-2d-physics",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "hooked-ux",
+      "owner_repo": "wondelai/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/wondelai/skills/hooked-ux",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "create-ui",
+      "owner_repo": "unity-technologies/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/unity-technologies/skills/create-ui",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "generate-editor-search-query",
+      "owner_repo": "unity-technologies/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/unity-technologies/skills/generate-editor-search-query",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "subagent-driven-development",
+      "owner_repo": "obra/superpowers",
+      "installs": null,
+      "page_url": "https://skills.sh/obra/superpowers/subagent-driven-development",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "using-superpowers",
+      "owner_repo": "obra/superpowers",
+      "installs": null,
+      "page_url": "https://skills.sh/obra/superpowers/using-superpowers",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "wrangler",
+      "owner_repo": "cloudflare/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/cloudflare/skills/wrangler",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "neon-postgres",
+      "owner_repo": "neondatabase/agent-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/neondatabase/agent-skills/neon-postgres",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "workers-profiling",
+      "owner_repo": "cloudflare/skills",
+      "installs": null,
+      "page_url": "https://skills.sh/cloudflare/skills/workers-profiling",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "accessibility",
+      "owner_repo": "addyosmani/web-quality-skills",
+      "installs": null,
+      "page_url": "https://skills.sh/addyosmani/web-quality-skills/accessibility",
+      "category": "hot"
+    },
+    {
+      "rank": null,
+      "skill_name": "archify",
+      "owner_repo": "tt-a1i/archify",
+      "installs": null,
+      "page_url": "https://skills.sh/tt-a1i/archify/archify",
       "category": "hot"
     },
     {
@@ -276,90 +996,66 @@
     },
     {
       "rank": null,
-      "skill_name": "k2f-conference-handout",
-      "owner_repo": "suzheng/k2f",
+      "skill_name": "speech-to-text",
+      "owner_repo": "elevenlabs/skills",
       "installs": null,
-      "page_url": "https://skills.sh/suzheng/k2f/k2f-conference-handout",
+      "page_url": "https://skills.sh/elevenlabs/skills/speech-to-text",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "prompt-engineer",
-      "owner_repo": "jeffallan/claude-skills",
+      "skill_name": "voice-isolator",
+      "owner_repo": "elevenlabs/skills",
       "installs": null,
-      "page_url": "https://skills.sh/jeffallan/claude-skills/prompt-engineer",
+      "page_url": "https://skills.sh/elevenlabs/skills/voice-isolator",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "resolving-merge-conflicts",
-      "owner_repo": "svyatov/supermatt",
+      "skill_name": "performance",
+      "owner_repo": "addyosmani/web-quality-skills",
       "installs": null,
-      "page_url": "https://skills.sh/svyatov/supermatt/resolving-merge-conflicts",
+      "page_url": "https://skills.sh/addyosmani/web-quality-skills/performance",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "commit",
-      "owner_repo": "svyatov/supermatt",
+      "skill_name": "onboarding",
+      "owner_repo": "elevenlabs/skills",
       "installs": null,
-      "page_url": "https://skills.sh/svyatov/supermatt/commit",
+      "page_url": "https://skills.sh/elevenlabs/skills/onboarding",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "fuzzing-harness",
-      "owner_repo": "briiirussell/cybersecurity-skills",
+      "skill_name": "agents",
+      "owner_repo": "elevenlabs/skills",
       "installs": null,
-      "page_url": "https://skills.sh/briiirussell/cybersecurity-skills/fuzzing-harness",
+      "page_url": "https://skills.sh/elevenlabs/skills/agents",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "firebase-expert",
-      "owner_repo": "jeffallan/claude-skills",
+      "skill_name": "update-skills-from-changelog",
+      "owner_repo": "elevenlabs/skills",
       "installs": null,
-      "page_url": "https://skills.sh/jeffallan/claude-skills/firebase-expert",
+      "page_url": "https://skills.sh/elevenlabs/skills/update-skills-from-changelog",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "php-pro",
-      "owner_repo": "jeffallan/claude-skills",
+      "skill_name": "seo",
+      "owner_repo": "addyosmani/web-quality-skills",
       "installs": null,
-      "page_url": "https://skills.sh/jeffallan/claude-skills/php-pro",
+      "page_url": "https://skills.sh/addyosmani/web-quality-skills/seo",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "domain",
-      "owner_repo": "coreyhaines31/makerskills",
+      "skill_name": "speech-engine",
+      "owner_repo": "elevenlabs/skills",
       "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/makerskills/domain",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "write-feature-docs",
-      "owner_repo": "warpdotdev/common-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/warpdotdev/common-skills/write-feature-docs",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "hunt-business-logic",
-      "owner_repo": "elementalsouls/claude-bughunter",
-      "installs": null,
-      "page_url": "https://skills.sh/elementalsouls/claude-bughunter/hunt-business-logic",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "control-cli",
-      "owner_repo": "poteto/plugins",
-      "installs": null,
-      "page_url": "https://skills.sh/poteto/plugins/control-cli",
+      "page_url": "https://skills.sh/elevenlabs/skills/speech-engine",
       "category": "hot"
     },
     {
@@ -372,1210 +1068,378 @@
     },
     {
       "rank": null,
-      "skill_name": "legal-writer",
-      "owner_repo": "kortix-ai/kortix-registry",
-      "installs": null,
-      "page_url": "https://skills.sh/kortix-ai/kortix-registry/legal-writer",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "mcp-developer",
-      "owner_repo": "jeffallan/claude-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/jeffallan/claude-skills/mcp-developer",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "browser-automation",
-      "owner_repo": "zhaoxuya520/reverse-skill",
-      "installs": null,
-      "page_url": "https://skills.sh/zhaoxuya520/reverse-skill/browser-automation",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "wait-what",
-      "owner_repo": "svyatov/supermatt",
-      "installs": null,
-      "page_url": "https://skills.sh/svyatov/supermatt/wait-what",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "filmcraft",
-      "owner_repo": "midasmatterhorn/artcraft-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/midasmatterhorn/artcraft-skills/filmcraft",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "metrics-dashboard",
-      "owner_repo": "phuryn/pm-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/phuryn/pm-skills/metrics-dashboard",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "layer-textures",
-      "owner_repo": "layerai/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/layerai/skills/layer-textures",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "recon-scope-triage",
-      "owner_repo": "elementalsouls/claude-bughunter",
-      "installs": null,
-      "page_url": "https://skills.sh/elementalsouls/claude-bughunter/recon-scope-triage",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "malware-analysis",
-      "owner_repo": "zhaoxuya520/reverse-skill",
-      "installs": null,
-      "page_url": "https://skills.sh/zhaoxuya520/reverse-skill/malware-analysis",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "paragon-try-context",
-      "owner_repo": "useparagon/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/useparagon/skills/paragon-try-context",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "hunt-dom",
-      "owner_repo": "elementalsouls/claude-bughunter",
-      "installs": null,
-      "page_url": "https://skills.sh/elementalsouls/claude-bughunter/hunt-dom",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "linkedin-posts",
-      "owner_repo": "kostja94/marketing-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/kostja94/marketing-skills/linkedin-posts",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "nextjs-developer",
-      "owner_repo": "jeffallan/claude-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/jeffallan/claude-skills/nextjs-developer",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "directory-submissions",
-      "owner_repo": "drewcoates/seo-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/drewcoates/seo-skills/directory-submissions",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "respond-to-pr-comments-in-blocklist",
-      "owner_repo": "warpdotdev/common-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/warpdotdev/common-skills/respond-to-pr-comments-in-blocklist",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "to-questionnaire",
-      "owner_repo": "svyatov/supermatt",
-      "installs": null,
-      "page_url": "https://skills.sh/svyatov/supermatt/to-questionnaire",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "ux-audit",
-      "owner_repo": "ssheleg/super-ux",
-      "installs": null,
-      "page_url": "https://skills.sh/ssheleg/super-ux/ux-audit",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "hunt-dispatch",
-      "owner_repo": "elementalsouls/claude-bughunter",
-      "installs": null,
-      "page_url": "https://skills.sh/elementalsouls/claude-bughunter/hunt-dispatch",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "hunt-rce",
-      "owner_repo": "elementalsouls/claude-bughunter",
-      "installs": null,
-      "page_url": "https://skills.sh/elementalsouls/claude-bughunter/hunt-rce",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "devcontainer-setup",
-      "owner_repo": "trailofbits/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/trailofbits/skills/devcontainer-setup",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "hunt-clickjacking",
-      "owner_repo": "elementalsouls/claude-bughunter",
-      "installs": null,
-      "page_url": "https://skills.sh/elementalsouls/claude-bughunter/hunt-clickjacking",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "wordcraft",
-      "owner_repo": "midasmatterhorn/artcraft-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/midasmatterhorn/artcraft-skills/wordcraft",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "macos-reverse",
-      "owner_repo": "zhaoxuya520/reverse-skill",
-      "installs": null,
-      "page_url": "https://skills.sh/zhaoxuya520/reverse-skill/macos-reverse",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "layer-game-assets",
-      "owner_repo": "layerai/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/layerai/skills/layer-game-assets",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "vmware-vcenter-attack",
-      "owner_repo": "elementalsouls/claude-bughunter",
-      "installs": null,
-      "page_url": "https://skills.sh/elementalsouls/claude-bughunter/vmware-vcenter-attack",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "vue-expert-js",
-      "owner_repo": "jeffallan/claude-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/jeffallan/claude-skills/vue-expert-js",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "radio-sdr",
-      "owner_repo": "zhaoxuya520/reverse-skill",
-      "installs": null,
-      "page_url": "https://skills.sh/zhaoxuya520/reverse-skill/radio-sdr",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "product-manager",
-      "owner_repo": "coreyhaines31/makerskills",
-      "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/makerskills/product-manager",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "linear-sdk-scripting",
-      "owner_repo": "cline/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/cline/skills/linear-sdk-scripting",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "content-coverage",
-      "owner_repo": "drewcoates/seo-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/drewcoates/seo-skills/content-coverage",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "antislop-authenticity",
-      "owner_repo": "muris11/anti-ai-slop",
-      "installs": null,
-      "page_url": "https://skills.sh/muris11/anti-ai-slop/antislop-authenticity",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "council",
-      "owner_repo": "warpdotdev/common-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/warpdotdev/common-skills/council",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "futu-trading",
-      "owner_repo": "futunnopen/futu-agent-hub",
-      "installs": null,
-      "page_url": "https://skills.sh/futunnopen/futu-agent-hub/futu-trading",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "database-security",
-      "owner_repo": "zhaoxuya520/reverse-skill",
-      "installs": null,
-      "page_url": "https://skills.sh/zhaoxuya520/reverse-skill/database-security",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "photocraft",
-      "owner_repo": "midasmatterhorn/artcraft-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/midasmatterhorn/artcraft-skills/photocraft",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "agent-access",
-      "owner_repo": "bitwarden/agent-access",
-      "installs": null,
-      "page_url": "https://skills.sh/bitwarden/agent-access/agent-access",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "research",
-      "owner_repo": "warpdotdev/common-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/warpdotdev/common-skills/research",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "improve-architecture",
-      "owner_repo": "svyatov/supermatt",
-      "installs": null,
-      "page_url": "https://skills.sh/svyatov/supermatt/improve-architecture",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "seo-roast",
-      "owner_repo": "drewcoates/seo-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/drewcoates/seo-skills/seo-roast",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "hunt-cicd",
-      "owner_repo": "elementalsouls/claude-bughunter",
-      "installs": null,
-      "page_url": "https://skills.sh/elementalsouls/claude-bughunter/hunt-cicd",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "provider-docs",
-      "owner_repo": "hashicorp/agent-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/hashicorp/agent-skills/provider-docs",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "react-native-tv-best-practices",
+      "skill_name": "github-actions",
       "owner_repo": "callstackincubator/agent-skills",
       "installs": null,
-      "page_url": "https://skills.sh/callstackincubator/agent-skills/react-native-tv-best-practices",
+      "page_url": "https://skills.sh/callstackincubator/agent-skills/github-actions",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "fix-ci",
-      "owner_repo": "poteto/plugins",
+      "skill_name": "daisyui",
+      "owner_repo": "saadeghi/daisyui",
       "installs": null,
-      "page_url": "https://skills.sh/poteto/plugins/fix-ci",
+      "page_url": "https://skills.sh/saadeghi/daisyui/daisyui",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "evidence-hygiene",
-      "owner_repo": "elementalsouls/claude-bughunter",
+      "skill_name": "audit-ai-design-slop",
+      "owner_repo": "mengto/skills",
       "installs": null,
-      "page_url": "https://skills.sh/elementalsouls/claude-bughunter/evidence-hygiene",
+      "page_url": "https://skills.sh/mengto/skills/audit-ai-design-slop",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "dependency-vetting",
-      "owner_repo": "svyatov/supermatt",
+      "skill_name": "no-ai-design-slop",
+      "owner_repo": "mengto/skills",
       "installs": null,
-      "page_url": "https://skills.sh/svyatov/supermatt/dependency-vetting",
+      "page_url": "https://skills.sh/mengto/skills/no-ai-design-slop",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "suggestion-box",
-      "owner_repo": "warpdotdev/common-skills",
+      "skill_name": "next-best-practices",
+      "owner_repo": "vercel-labs/openreview",
       "installs": null,
-      "page_url": "https://skills.sh/warpdotdev/common-skills/suggestion-box",
+      "page_url": "https://skills.sh/vercel-labs/openreview/next-best-practices",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "code-reviewer",
-      "owner_repo": "jeffallan/claude-skills",
+      "skill_name": "unity-cli",
+      "owner_repo": "unity-technologies/skills",
       "installs": null,
-      "page_url": "https://skills.sh/jeffallan/claude-skills/code-reviewer",
+      "page_url": "https://skills.sh/unity-technologies/skills/unity-cli",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "cloud-architect",
-      "owner_repo": "jeffallan/claude-skills",
+      "skill_name": "wecomcli-calendar",
+      "owner_repo": "wecomteam/wecom-cli",
       "installs": null,
-      "page_url": "https://skills.sh/jeffallan/claude-skills/cloud-architect",
+      "page_url": "https://skills.sh/wecomteam/wecom-cli/wecomcli-calendar",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "wifi-wireless",
-      "owner_repo": "zhaoxuya520/reverse-skill",
+      "skill_name": "glass-shard-title",
+      "owner_repo": "heygen-com/hyperframes",
       "installs": null,
-      "page_url": "https://skills.sh/zhaoxuya520/reverse-skill/wifi-wireless",
+      "page_url": "https://skills.sh/heygen-com/hyperframes/glass-shard-title",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "hunt-host-header",
-      "owner_repo": "elementalsouls/claude-bughunter",
+      "skill_name": "wecomcli-contact",
+      "owner_repo": "wecomteam/wecom-cli",
       "installs": null,
-      "page_url": "https://skills.sh/elementalsouls/claude-bughunter/hunt-host-header",
+      "page_url": "https://skills.sh/wecomteam/wecom-cli/wecomcli-contact",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "salesforce-developer",
-      "owner_repo": "jeffallan/claude-skills",
+      "skill_name": "frost-sequence-camera-orbit",
+      "owner_repo": "heygen-com/hyperframes",
       "installs": null,
-      "page_url": "https://skills.sh/jeffallan/claude-skills/salesforce-developer",
+      "page_url": "https://skills.sh/heygen-com/hyperframes/frost-sequence-camera-orbit",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "implement-specs",
-      "owner_repo": "warpdotdev/common-skills",
+      "skill_name": "wecomcli-media",
+      "owner_repo": "wecomteam/wecom-cli",
       "installs": null,
-      "page_url": "https://skills.sh/warpdotdev/common-skills/implement-specs",
+      "page_url": "https://skills.sh/wecomteam/wecom-cli/wecomcli-media",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "firecrawl-build-scrape",
-      "owner_repo": "firecrawl/firecrawl",
+      "skill_name": "code-slice-hero",
+      "owner_repo": "heygen-com/hyperframes",
       "installs": null,
-      "page_url": "https://skills.sh/firecrawl/firecrawl/firecrawl-build-scrape",
+      "page_url": "https://skills.sh/heygen-com/hyperframes/code-slice-hero",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "shopify-expert",
-      "owner_repo": "jeffallan/claude-skills",
+      "skill_name": "wecomcli-sheet",
+      "owner_repo": "wecomteam/wecom-cli",
       "installs": null,
-      "page_url": "https://skills.sh/jeffallan/claude-skills/shopify-expert",
+      "page_url": "https://skills.sh/wecomteam/wecom-cli/wecomcli-sheet",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "deep-learning",
-      "owner_repo": "pluginagentmarketplace/custom-plugin-data-engineer",
+      "skill_name": "canopy-part-title",
+      "owner_repo": "heygen-com/hyperframes",
       "installs": null,
-      "page_url": "https://skills.sh/pluginagentmarketplace/custom-plugin-data-engineer/deep-learning",
+      "page_url": "https://skills.sh/heygen-com/hyperframes/canopy-part-title",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "layer-sprite-animation",
-      "owner_repo": "layerai/skills",
+      "skill_name": "wecomcli-smartpage",
+      "owner_repo": "wecomteam/wecom-cli",
       "installs": null,
-      "page_url": "https://skills.sh/layerai/skills/layer-sprite-animation",
+      "page_url": "https://skills.sh/wecomteam/wecom-cli/wecomcli-smartpage",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "futu-unusual-capital-flows",
-      "owner_repo": "futunnopen/futu-agent-hub",
+      "skill_name": "wireframe-portal-title",
+      "owner_repo": "heygen-com/hyperframes",
       "installs": null,
-      "page_url": "https://skills.sh/futunnopen/futu-agent-hub/futu-unusual-capital-flows",
+      "page_url": "https://skills.sh/heygen-com/hyperframes/wireframe-portal-title",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "stripe-billing",
-      "owner_repo": "ssheleg/sheleg-dev",
+      "skill_name": "design-everyday-things",
+      "owner_repo": "wondelai/skills",
       "installs": null,
-      "page_url": "https://skills.sh/ssheleg/sheleg-dev/stripe-billing",
+      "page_url": "https://skills.sh/wondelai/skills/design-everyday-things",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "layer-talking-characters",
-      "owner_repo": "layerai/skills",
+      "skill_name": "wecomcli-shared",
+      "owner_repo": "wecomteam/wecom-cli",
       "installs": null,
-      "page_url": "https://skills.sh/layerai/skills/layer-talking-characters",
+      "page_url": "https://skills.sh/wecomteam/wecom-cli/wecomcli-shared",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "meticulous-test",
-      "owner_repo": "alwaysmeticulous/skills",
+      "skill_name": "gsap",
+      "owner_repo": "mengto/skills",
       "installs": null,
-      "page_url": "https://skills.sh/alwaysmeticulous/skills/meticulous-test",
+      "page_url": "https://skills.sh/mengto/skills/gsap",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "bdd-scenarios",
-      "owner_repo": "thebushidocollective/han",
+      "skill_name": "wecomcli-meeting",
+      "owner_repo": "wecomteam/wecom-cli",
       "installs": null,
-      "page_url": "https://skills.sh/thebushidocollective/han/bdd-scenarios",
+      "page_url": "https://skills.sh/wecomteam/wecom-cli/wecomcli-meeting",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "better-design",
-      "owner_repo": "marvkr/better-design",
+      "skill_name": "wecomcli-disk",
+      "owner_repo": "wecomteam/wecom-cli",
       "installs": null,
-      "page_url": "https://skills.sh/marvkr/better-design/better-design",
+      "page_url": "https://skills.sh/wecomteam/wecom-cli/wecomcli-disk",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "understand-customers",
-      "owner_repo": "drewcoates/seo-skills",
+      "skill_name": "wecomcli-pptx",
+      "owner_repo": "wecomteam/wecom-cli",
       "installs": null,
-      "page_url": "https://skills.sh/drewcoates/seo-skills/understand-customers",
+      "page_url": "https://skills.sh/wecomteam/wecom-cli/wecomcli-pptx",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "blog-refresher",
-      "owner_repo": "drewcoates/seo-skills",
+      "skill_name": "sprite-segment-3x3grid",
+      "owner_repo": "unity-technologies/skills",
       "installs": null,
-      "page_url": "https://skills.sh/drewcoates/seo-skills/blog-refresher",
+      "page_url": "https://skills.sh/unity-technologies/skills/sprite-segment-3x3grid",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "pdf-to-interactive-web",
-      "owner_repo": "ai-azhou/pdf-to-interactive-web",
+      "skill_name": "manage-sprite-atlas",
+      "owner_repo": "unity-technologies/skills",
       "installs": null,
-      "page_url": "https://skills.sh/ai-azhou/pdf-to-interactive-web/pdf-to-interactive-web",
+      "page_url": "https://skills.sh/unity-technologies/skills/manage-sprite-atlas",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "futu-quote",
-      "owner_repo": "futunnopen/futu-agent-hub",
+      "skill_name": "upstash-box-remote-work",
+      "owner_repo": "upstash/skills",
       "installs": null,
-      "page_url": "https://skills.sh/futunnopen/futu-agent-hub/futu-quote",
+      "page_url": "https://skills.sh/upstash/skills/upstash-box-remote-work",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "report-writing",
-      "owner_repo": "elementalsouls/claude-bughunter",
+      "skill_name": "mongodb-atlas-stream-processing",
+      "owner_repo": "mongodb/agent-skills",
       "installs": null,
-      "page_url": "https://skills.sh/elementalsouls/claude-bughunter/report-writing",
+      "page_url": "https://skills.sh/mongodb/agent-skills/mongodb-atlas-stream-processing",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "red-team-engagement",
-      "owner_repo": "briiirussell/cybersecurity-skills",
+      "skill_name": "manage-cloud-build",
+      "owner_repo": "unity-technologies/skills",
       "installs": null,
-      "page_url": "https://skills.sh/briiirussell/cybersecurity-skills/red-team-engagement",
+      "page_url": "https://skills.sh/unity-technologies/skills/manage-cloud-build",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "provider-resources",
-      "owner_repo": "hashicorp/agent-skills",
+      "skill_name": "x-api",
+      "owner_repo": "fetcher-sh/fetcher-skills",
       "installs": null,
-      "page_url": "https://skills.sh/hashicorp/agent-skills/provider-resources",
+      "page_url": "https://skills.sh/fetcher-sh/fetcher-skills/x-api",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "pytest-coverage",
-      "owner_repo": "github/awesome-copilot",
+      "skill_name": "upstash-vector-js",
+      "owner_repo": "upstash/skills",
       "installs": null,
-      "page_url": "https://skills.sh/github/awesome-copilot/pytest-coverage",
+      "page_url": "https://skills.sh/upstash/skills/upstash-vector-js",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "decide",
-      "owner_repo": "coreyhaines31/makerskills",
+      "skill_name": "dashboarding",
+      "owner_repo": "grafana/skills",
       "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/makerskills/decide",
+      "page_url": "https://skills.sh/grafana/skills/dashboarding",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "what-would-you-do",
-      "owner_repo": "svyatov/supermatt",
+      "skill_name": "ste80-humanizer",
+      "owner_repo": "dodaios/ste80-humanizer",
       "installs": null,
-      "page_url": "https://skills.sh/svyatov/supermatt/what-would-you-do",
+      "page_url": "https://skills.sh/dodaios/ste80-humanizer/ste80-humanizer",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "api-security",
-      "owner_repo": "zhaoxuya520/reverse-skill",
+      "skill_name": "build-gtk",
+      "owner_repo": "unity-technologies/skills",
       "installs": null,
-      "page_url": "https://skills.sh/zhaoxuya520/reverse-skill/api-security",
+      "page_url": "https://skills.sh/unity-technologies/skills/build-gtk",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "ux-flows",
-      "owner_repo": "ssheleg/super-ux",
+      "skill_name": "implement-in-app-purchases",
+      "owner_repo": "unity-technologies/skills",
       "installs": null,
-      "page_url": "https://skills.sh/ssheleg/super-ux/ux-flows",
+      "page_url": "https://skills.sh/unity-technologies/skills/implement-in-app-purchases",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "assess-react-native-migration",
-      "owner_repo": "callstackincubator/agent-skills",
+      "skill_name": "improve-retention",
+      "owner_repo": "wondelai/skills",
       "installs": null,
-      "page_url": "https://skills.sh/callstackincubator/agent-skills/assess-react-native-migration",
+      "page_url": "https://skills.sh/wondelai/skills/improve-retention",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "rust-engineer",
-      "owner_repo": "jeffallan/claude-skills",
+      "skill_name": "email-best-practices",
+      "owner_repo": "resend/resend-skills",
       "installs": null,
-      "page_url": "https://skills.sh/jeffallan/claude-skills/rust-engineer",
+      "page_url": "https://skills.sh/resend/resend-skills/email-best-practices",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "meticulous-zero-diff-task",
-      "owner_repo": "alwaysmeticulous/skills",
+      "skill_name": "migrate-birp-to-urp",
+      "owner_repo": "unity-technologies/skills",
       "installs": null,
-      "page_url": "https://skills.sh/alwaysmeticulous/skills/meticulous-zero-diff-task",
+      "page_url": "https://skills.sh/unity-technologies/skills/migrate-birp-to-urp",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "build-audit-logs",
-      "owner_repo": "evloghq/evlog",
+      "skill_name": "new-unity-project",
+      "owner_repo": "unity-technologies/skills",
       "installs": null,
-      "page_url": "https://skills.sh/evloghq/evlog/build-audit-logs",
+      "page_url": "https://skills.sh/unity-technologies/skills/new-unity-project",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "hunt-misc",
-      "owner_repo": "elementalsouls/claude-bughunter",
+      "skill_name": "import-and-optimize-cad-models",
+      "owner_repo": "unity-technologies/skills",
       "installs": null,
-      "page_url": "https://skills.sh/elementalsouls/claude-bughunter/hunt-misc",
+      "page_url": "https://skills.sh/unity-technologies/skills/import-and-optimize-cad-models",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "hunt-api-misconfig",
-      "owner_repo": "elementalsouls/claude-bughunter",
+      "skill_name": "upstash-qstash-js",
+      "owner_repo": "upstash/skills",
       "installs": null,
-      "page_url": "https://skills.sh/elementalsouls/claude-bughunter/hunt-api-misconfig",
+      "page_url": "https://skills.sh/upstash/skills/upstash-qstash-js",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "run-acceptance-tests",
-      "owner_repo": "hashicorp/agent-skills",
+      "skill_name": "sonar-coverage",
+      "owner_repo": "sonarsource/sonarqube-agent-plugins",
       "installs": null,
-      "page_url": "https://skills.sh/hashicorp/agent-skills/run-acceptance-tests",
+      "page_url": "https://skills.sh/sonarsource/sonarqube-agent-plugins/sonar-coverage",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "create-pr",
-      "owner_repo": "warpdotdev/common-skills",
+      "skill_name": "setup-vivox-voice-chat",
+      "owner_repo": "unity-technologies/skills",
       "installs": null,
-      "page_url": "https://skills.sh/warpdotdev/common-skills/create-pr",
+      "page_url": "https://skills.sh/unity-technologies/skills/setup-vivox-voice-chat",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "nestjs-expert",
-      "owner_repo": "jeffallan/claude-skills",
+      "skill_name": "optimize-web",
+      "owner_repo": "unity-technologies/skills",
       "installs": null,
-      "page_url": "https://skills.sh/jeffallan/claude-skills/nestjs-expert",
+      "page_url": "https://skills.sh/unity-technologies/skills/optimize-web",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "blitz-copy",
-      "owner_repo": "drewcoates/seo-skills",
+      "skill_name": "gradient-border-flashlight",
+      "owner_repo": "mengto/skills",
       "installs": null,
-      "page_url": "https://skills.sh/drewcoates/seo-skills/blitz-copy",
+      "page_url": "https://skills.sh/mengto/skills/gradient-border-flashlight",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "plannotator-last",
-      "owner_repo": "backnotprop/plannotator",
+      "skill_name": "resend-cli",
+      "owner_repo": "resend/resend-skills",
       "installs": null,
-      "page_url": "https://skills.sh/backnotprop/plannotator/plannotator-last",
+      "page_url": "https://skills.sh/resend/resend-skills/resend-cli",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "web3-audit",
-      "owner_repo": "elementalsouls/claude-bughunter",
+      "skill_name": "sharpen",
+      "owner_repo": "michael-denyer/pstack-claude",
       "installs": null,
-      "page_url": "https://skills.sh/elementalsouls/claude-bughunter/web3-audit",
+      "page_url": "https://skills.sh/michael-denyer/pstack-claude/sharpen",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "course-forge",
-      "owner_repo": "xmwengxing/course-forge",
+      "skill_name": "upstash-search-js",
+      "owner_repo": "upstash/skills",
       "installs": null,
-      "page_url": "https://skills.sh/xmwengxing/course-forge/course-forge",
+      "page_url": "https://skills.sh/upstash/skills/upstash-search-js",
       "category": "hot"
     },
     {
       "rank": null,
-      "skill_name": "antislop-motion",
-      "owner_repo": "muris11/anti-ai-slop",
+      "skill_name": "redis-best-practices",
+      "owner_repo": "upstash/skills",
       "installs": null,
-      "page_url": "https://skills.sh/muris11/anti-ai-slop/antislop-motion",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "meticulous-cli-update",
-      "owner_repo": "alwaysmeticulous/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/alwaysmeticulous/skills/meticulous-cli-update",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "legacy-modernizer",
-      "owner_repo": "jeffallan/claude-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/jeffallan/claude-skills/legacy-modernizer",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "brandalf",
-      "owner_repo": "warpdotdev/common-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/warpdotdev/common-skills/brandalf",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "fix-merge-conflicts",
-      "owner_repo": "poteto/plugins",
-      "installs": null,
-      "page_url": "https://skills.sh/poteto/plugins/fix-merge-conflicts",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "woo-guard",
-      "owner_repo": "amelnagdy/guard-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/amelnagdy/guard-skills/woo-guard",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "review-pr",
-      "owner_repo": "warpdotdev/common-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/warpdotdev/common-skills/review-pr",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "internal-linking",
-      "owner_repo": "drewcoates/seo-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/drewcoates/seo-skills/internal-linking",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "recon",
-      "owner_repo": "briiirussell/cybersecurity-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/briiirussell/cybersecurity-skills/recon",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "log-watch",
-      "owner_repo": "briiirussell/cybersecurity-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/briiirussell/cybersecurity-skills/log-watch",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "intro",
-      "owner_repo": "drewcoates/seo-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/drewcoates/seo-skills/intro",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "pdfcraft",
-      "owner_repo": "midasmatterhorn/artcraft-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/midasmatterhorn/artcraft-skills/pdfcraft",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "platform-environment-validate",
-      "owner_repo": "forcedotcom/sf-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/forcedotcom/sf-skills/platform-environment-validate",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "ingest",
-      "owner_repo": "coreyhaines31/makerskills",
-      "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/makerskills/ingest",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "bugcrowd-reporting",
-      "owner_repo": "elementalsouls/claude-bughunter",
-      "installs": null,
-      "page_url": "https://skills.sh/elementalsouls/claude-bughunter/bugcrowd-reporting",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "fix-findings",
-      "owner_repo": "svyatov/supermatt",
-      "installs": null,
-      "page_url": "https://skills.sh/svyatov/supermatt/fix-findings",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "deckcraft",
-      "owner_repo": "midasmatterhorn/artcraft-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/midasmatterhorn/artcraft-skills/deckcraft",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "social-fetch",
-      "owner_repo": "coreyhaines31/makerskills",
-      "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/makerskills/social-fetch",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "effectcraft",
-      "owner_repo": "midasmatterhorn/artcraft-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/midasmatterhorn/artcraft-skills/effectcraft",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "prompt-injection",
-      "owner_repo": "briiirussell/cybersecurity-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/briiirussell/cybersecurity-skills/prompt-injection",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "react-native-brownfield-migration",
-      "owner_repo": "callstackincubator/agent-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/callstackincubator/agent-skills/react-native-brownfield-migration",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "dispute-evidence",
-      "owner_repo": "coreyhaines31/makerskills",
-      "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/makerskills/dispute-evidence",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "new-terraform-provider",
-      "owner_repo": "hashicorp/agent-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/hashicorp/agent-skills/new-terraform-provider",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "edr-bypass-re",
-      "owner_repo": "zhaoxuya520/reverse-skill",
-      "installs": null,
-      "page_url": "https://skills.sh/zhaoxuya520/reverse-skill/edr-bypass-re",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "what-did-i-get-done",
-      "owner_repo": "poteto/plugins",
-      "installs": null,
-      "page_url": "https://skills.sh/poteto/plugins/what-did-i-get-done",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "honest-link-outreach",
-      "owner_repo": "drewcoates/seo-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/drewcoates/seo-skills/honest-link-outreach",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "gridcraft",
-      "owner_repo": "midasmatterhorn/artcraft-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/midasmatterhorn/artcraft-skills/gridcraft",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "obsidian",
-      "owner_repo": "gapmiss/obsidian-plugin-skill",
-      "installs": null,
-      "page_url": "https://skills.sh/gapmiss/obsidian-plugin-skill/obsidian",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "dotnet-core-expert",
-      "owner_repo": "jeffallan/claude-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/jeffallan/claude-skills/dotnet-core-expert",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "readout",
-      "owner_repo": "warpdotdev/common-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/warpdotdev/common-skills/readout",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "thermo-nuclear-review",
-      "owner_repo": "poteto/plugins",
-      "installs": null,
-      "page_url": "https://skills.sh/poteto/plugins/thermo-nuclear-review",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "lark-vc",
-      "owner_repo": "larksuite/cli",
-      "installs": null,
-      "page_url": "https://skills.sh/larksuite/cli/lark-vc",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "antislop-copywriting",
-      "owner_repo": "muris11/anti-ai-slop",
-      "installs": null,
-      "page_url": "https://skills.sh/muris11/anti-ai-slop/antislop-copywriting",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "skill-creator",
-      "owner_repo": "cline/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/cline/skills/skill-creator",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "hunt-rag-vector",
-      "owner_repo": "elementalsouls/claude-bughunter",
-      "installs": null,
-      "page_url": "https://skills.sh/elementalsouls/claude-bughunter/hunt-rag-vector",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "copywriting",
-      "owner_repo": "ssheleg/super-ux",
-      "installs": null,
-      "page_url": "https://skills.sh/ssheleg/super-ux/copywriting",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "security-start",
-      "owner_repo": "briiirussell/cybersecurity-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/briiirussell/cybersecurity-skills/security-start",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "anicraft",
-      "owner_repo": "midasmatterhorn/artcraft-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/midasmatterhorn/artcraft-skills/anicraft",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "meticulous-use-session-data",
-      "owner_repo": "alwaysmeticulous/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/alwaysmeticulous/skills/meticulous-use-session-data",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "layer-ua-creatives",
-      "owner_repo": "layerai/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/layerai/skills/layer-ua-creatives",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "toy",
-      "owner_repo": "bilibili/toy",
-      "installs": null,
-      "page_url": "https://skills.sh/bilibili/toy/toy",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "kotlin-specialist",
-      "owner_repo": "jeffallan/claude-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/jeffallan/claude-skills/kotlin-specialist",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "layer-localization",
-      "owner_repo": "layerai/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/layerai/skills/layer-localization",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "mobile-reverse",
-      "owner_repo": "zhaoxuya520/reverse-skill",
-      "installs": null,
-      "page_url": "https://skills.sh/zhaoxuya520/reverse-skill/mobile-reverse",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "continual-learning",
-      "owner_repo": "poteto/plugins",
-      "installs": null,
-      "page_url": "https://skills.sh/poteto/plugins/continual-learning",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "teach",
-      "owner_repo": "svyatov/supermatt",
-      "installs": null,
-      "page_url": "https://skills.sh/svyatov/supermatt/teach",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "motif",
-      "owner_repo": "howells/motif",
-      "installs": null,
-      "page_url": "https://skills.sh/howells/motif/motif",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "company-cfo",
-      "owner_repo": "coreyhaines31/makerskills",
-      "installs": null,
-      "page_url": "https://skills.sh/coreyhaines31/makerskills/company-cfo",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "layer-audio",
-      "owner_repo": "layerai/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/layerai/skills/layer-audio",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "interview-synthesis",
-      "owner_repo": "borghei/claude-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/borghei/claude-skills/interview-synthesis",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "telegram-userbots",
-      "owner_repo": "ssheleg/telegram-dev",
-      "installs": null,
-      "page_url": "https://skills.sh/ssheleg/telegram-dev/telegram-userbots",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "django-expert",
-      "owner_repo": "jeffallan/claude-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/jeffallan/claude-skills/django-expert",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "cancel-ralph",
-      "owner_repo": "poteto/plugins",
-      "installs": null,
-      "page_url": "https://skills.sh/poteto/plugins/cancel-ralph",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "hunt-file-upload",
-      "owner_repo": "elementalsouls/claude-bughunter",
-      "installs": null,
-      "page_url": "https://skills.sh/elementalsouls/claude-bughunter/hunt-file-upload",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "futu-grid-strategy",
-      "owner_repo": "futunnopen/futu-agent-hub",
-      "installs": null,
-      "page_url": "https://skills.sh/futunnopen/futu-agent-hub/futu-grid-strategy",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "cinematic-trailer-production",
-      "owner_repo": "calesthio/generative-media-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/calesthio/generative-media-skills/cinematic-trailer-production",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "branding",
-      "owner_repo": "daniellr/skills",
-      "installs": null,
-      "page_url": "https://skills.sh/daniellr/skills/branding",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "get-pr-comments",
-      "owner_repo": "poteto/plugins",
-      "installs": null,
-      "page_url": "https://skills.sh/poteto/plugins/get-pr-comments",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "playwright-expert",
-      "owner_repo": "jeffallan/claude-skills",
-      "installs": null,
-      "page_url": "https://skills.sh/jeffallan/claude-skills/playwright-expert",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "cloud-iam-deep",
-      "owner_repo": "elementalsouls/claude-bughunter",
-      "installs": null,
-      "page_url": "https://skills.sh/elementalsouls/claude-bughunter/cloud-iam-deep",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "hunt-websocket",
-      "owner_repo": "elementalsouls/claude-bughunter",
-      "installs": null,
-      "page_url": "https://skills.sh/elementalsouls/claude-bughunter/hunt-websocket",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "aspnet-minimal-api-openapi",
-      "owner_repo": "github/awesome-copilot",
-      "installs": null,
-      "page_url": "https://skills.sh/github/awesome-copilot/aspnet-minimal-api-openapi",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "apk-redteam-pipeline",
-      "owner_repo": "elementalsouls/claude-bughunter",
-      "installs": null,
-      "page_url": "https://skills.sh/elementalsouls/claude-bughunter/apk-redteam-pipeline",
-      "category": "hot"
-    },
-    {
-      "rank": null,
-      "skill_name": "hunt-ssrf",
-      "owner_repo": "elementalsouls/claude-bughunter",
-      "installs": null,
-      "page_url": "https://skills.sh/elementalsouls/claude-bughunter/hunt-ssrf",
+      "page_url": "https://skills.sh/upstash/skills/redis-best-practices",
       "category": "hot"
     }
   ]
